@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Full CV in PDF format - link](https://maherou.github.io/files/MichaelAllenHerouxVitaMarch2017Medium.pdf)
+
 Education
 ======
 * B.A in Applied Mathematics, St. John's University, 1984
@@ -32,8 +34,6 @@ Work experience
   * Math Software Research Group (1988 - 1993), Engineering applications (1993 - 1998)
   * R&D in math and scientific libraries for supercomputing applications
   
-[Full CV in PDF format](https://maherou.github.io/files/MichaelAllenHerouxVitaMarch2017Medium.pdf)
-
 Publications
 ======
   <ul>{% for post in site.publications %}
