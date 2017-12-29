@@ -32,7 +32,7 @@ Work experience
   * Math Software Research Group (1988 - 1993), Engineering applications (1993 - 1998)
   * R&D in math and scientific libraries for supercomputing applications
   
-[Full CV in PDF format](MichaelAllenHerouxVitaMarch2017Medium.pdf)
+[Full CV in PDF format](https://maherou.github.io/files/MichaelAllenHerouxVitaMarch2017Medium.pdf)
 
 Publications
 ======
