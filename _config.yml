@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael A. Heroux Home Page"
+title                    : "Mike Heroux Homepage"
 title_separator          : "-"
 name                     : &name "Michael A. Heroux"
 description              : &description "Senior Scientist, Scientist in Residence"
@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Michael A. Heroux"
-  avatar           : "profile.png"
-  bio              : "Senior Scientist, Sandia National Labs; Scientist in Residence, St. John's University"
+  avatar           : "HerouxSpeaking.jpg"
+  bio              : "Senior Scientist, Sandia; Scientist in Residence, St. John's"
   location         : "Avon, MN"
   employer         : "Sandia National Labs; St. John's University"
   googlescholar    : "https://scholar.google.com/citations?user=3o3TleEAAAAJ&hl=en"
