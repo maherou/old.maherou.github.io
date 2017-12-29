@@ -8,19 +8,23 @@ date: 2018-01-20
 location: "Collegeville, MN, USA"
 ---
 
-Instructor: Mike Heroux
-Time: 1:50 pm to 4:20 pm Wednesdays and Fridays
-Location: Room 218, Engel Science Center, St. John's.
+### Course Information:
+- Instructor: Mike Heroux
+- Time: 1:50 pm to 4:20 pm Mondays and Fridays
+- Location: Room 218, Engel Science Center, St. John's.
 
-Contact Info:             X3394 (SJU Office)
-                          320-845-7695 (Home Office)
-                          505-379-5518 (Mobile Phone)
-Office Hours:
-1:20 pm to 1:50 pm on class days (please contact me prior to stopping by).
-After class.
-By appointment.
-Any time I am in my office.
-  
+### Contact Info:
+- X3394 (SJU Office)
+- 320-845-7695 (Home Office)
+- 505-379-5518 (Mobile Phone)
+
+### Office Hours:
+- 1:20 pm to 1:50 pm on class days (please contact me prior to stopping by).
+- After class.
+- By appointment.
+- Any time I am in my office.
+ 
+### Course Pages:
 - Overview of Assignments and Grading.
 - Class Meeting Schedule.
 - Course Handbook.
