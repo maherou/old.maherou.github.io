@@ -1,4 +1,6 @@
-## [1.0] (https://maherou.github.io) fork from (https://academicpages.github.io)
+## 1.0 
+
+- (https://maherou.github.io) fork from (https://academicpages.github.io)
 
 ## [3.4.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.2)
 
