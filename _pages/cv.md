@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.A in Applied Mathematics, St. John's University, 1984
+* M.S. in Applied Mathematics, Colorado State University, 1986
+* Ph.D in Applied Mathematics, Colorado State University, 1989
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 1998 - present: Sandia National Laboratories
+  * Staff member in computing research
+  * Principal (1998 - 2005), Distinguished (2005 - 2015) Senior Scientist (2015 - now).
+  * R&D in math and computer science for high performance scientific and engineering computing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 1998 - present: St. John's University, MN
+  * Computer Science Department
+  * Adjunct (1998 - 2005), Scientist in Residenc (2005 - now).
+  * Courses in numerical analysis, parallel computing, software engineering, research methodologies
+
+* 1988 - 1998: Cray Research
+  * Scientific software R&D
+  * Math Software Research Group (1988 - 1993), Engineering applications (1993 - 1998)
+  * R&D in math and scientific libraries for supercomputing applications
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+[Full CV in PDF format](MichaelAllenHerouxVitaMarch2017Medium.pdf)
 
 Publications
 ======
