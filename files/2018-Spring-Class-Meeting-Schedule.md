@@ -8,7 +8,7 @@ Michael A. Heroux
 | --- | --- | --- |
 | August 30 |   | **No class: In Tokyo** |
 | September 1 | **In class:** Reference librarian (J. Carlson) |   |
-| September 6 | Class Introduction **In class:** _A Tale of 3 CS373 Students_ **In class:** [Handbook](file:///tmp/d20171230-4-szwb5x/CSCI373CourseHandbookFifteenthEdition.pdf) quiz |   |
+| September 6 | Class Introduction **In class:** _A Tale of 3 CS373 Students_ **In class:** [Handbook](https://maherou.github.io/file/CSCI373CourseHandbookFifteenthEdition.pdf) quiz |   |
 | September 8 | **Individual:** Research Topic Possibilities |   |
 | September 13 | **Individual:** Progress update, outline &amp; citations |   |
 | September 15 | **In class:** [Presentation Exercises](file:///tmp/d20171230-4-szwb5x/PresentationsThatWork.htm) |   |
