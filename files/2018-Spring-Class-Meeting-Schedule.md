@@ -14,11 +14,12 @@
 | February 2 | **In class:** PSOTF presentations ( [HB, pg 20](https://maherou.github.io/files/CSCI373CourseHandbookFifteenthEdition.pdf)). |   |
 | February 5 | **Due:** Preliminary SOTF paper ( [HB, pg 20](https://maherou.github.io/files/CSCI373CourseHandbookFifteenthEdition.pdf)). [Submit your PDF file](https://easychair.org/conferences/?conf=psotfspring2018). BY Midnight. | **No class: In Knoxville, TN** |
 | February 9 |   | **No class: In Knoxville, TN** |
-| February 12 | **In class:** [Titles and Abstracts Exercises.](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) **In class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/) |   |
+| February 12 | **In class:** [Titles and Abstracts Exercises.](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) <br>
+**In class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/) |   |
 | February 19 | **Individual:** Review of PSOTF talk & paper |   |
 | February 23 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork.html) |   |
 | February 26 |   | **No class: In CA** |
-| March 2 | **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CSCI373CourseHandbookFifteenthEdition.pdf)).Submit as email attachment before midnight CT **.**** In class:** [Position Papers.](https://collegeville.github.io/Scribe/PositionPapers/) Due Oct 26. |   |
+| March 2 | **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CSCI373CourseHandbookFifteenthEdition.pdf)).Submit as email attachment before midnight CT. **In class:** [Position Papers.](https://collegeville.github.io/Scribe/PositionPapers/) Due Oct 26. |   |
 | March 5 |   | **No class: Spring Break** |
 | March 9 |   | **No class: Spring Break** |
 | March 12 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/TechWritingSpeaking2.0.pdf) |   |
