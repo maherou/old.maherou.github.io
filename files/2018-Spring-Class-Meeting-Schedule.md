@@ -7,7 +7,7 @@
 | **Date** | **Assignment and Exercises** | **Notes** |
 | --- | --- | --- |
 | January 15 | **In class:** Reference librarian (J. Carlson) |   |
-| January 19 | Class Introduction **In class:** _A Tale of 3 CS373 Students_ **In class:** [Handbook](https://maherou.github.io/files/CSCI373CourseHandbookFifteenthEdition.pdf) quiz |   |
+| January 19 | Class Introduction <br> **In class:** _A Tale of 3 CS373 Students_ <br> **In class:** [Handbook](https://maherou.github.io/files/CSCI373CourseHandbookFifteenthEdition.pdf) quiz |   |
 | January 22 | **Individual:** Research Topic Possibilities |   |
 | January 26 | **Individual:** Progress update, outline & citations |   |
 | January 29 | **In class:** [Presentation Exercises](https://maherou.github.io/files/PresentationsThatWork.htm) |   |
