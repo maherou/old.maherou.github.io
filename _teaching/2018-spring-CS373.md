@@ -29,7 +29,7 @@ location: "Collegeville, MN, USA"
 - [Overview of Assignments and Grading.](https://maherou.github.io/files/Overview-of-Assignments-and-Grading)
 - [Course Handbook.](https://maherou.github.io/files/CSCI373CourseHandbookFifteenthEdition.pdf)
 - [Submit your regular reading assignment here.](https://goo.gl/forms/4Oia1ZMdgUGPWuC83)
-- Some previous final papers are here.
+- Some previous final papers are here. 
 - [Writing Evaluation Form.](https://maherou.github.io/files/CS373-Writing-Evaluation-Form)
 - Presentation Evaluation Form.
 - Time Management and Personal Kanban.
