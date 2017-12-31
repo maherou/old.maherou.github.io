@@ -1,6 +1,4 @@
-# CSCI 373: Capstone Bingo
-
-**Michael A. Heroux**
+% # CSCI 373: Capstone Bingo
 
 Setup:
 
