@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2017-07-27-CSGF-Keynote
 venue: "DOE CSGF Annual Meeting"
-date: 2012-03-01
+date: 2017-07-27
 location: "Washington DC, USA"
 ---
 
