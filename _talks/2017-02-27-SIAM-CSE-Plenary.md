@@ -7,7 +7,6 @@ venue: "SIAM Computational Science and Engineering Conference 2017"
 date: 2017-02-27
 location: "Atlanta, GA, USA"
 ---
-
 [Recorded presentations and slides](https://www.pathlms.com/siam/courses/4150/sections/5836)
 
 Computational Science and Engineering (CSE) is effective to the extent it contributes to overall scientific and engineering pursuits.  Its contributions are most tangible when delivering concrete scientific and engineering results via modeling, simulation and analysis.  At the same time, delivery of CSE results is impacted by how we develop and support the ecosystem that produced these results, including, in particular, software and people.  While delivering results is the ultimate goal of our CSE efforts, the shortest path to results is often not the most productive and sustainable.
