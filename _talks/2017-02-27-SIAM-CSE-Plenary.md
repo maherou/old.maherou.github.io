@@ -5,7 +5,7 @@ type: "Invited Talk"
 permalink: /talks/2017-02-27-SIAM-CSE-Plenary
 venue: "SIAM Computational Science and Engineering Conference 2017"
 date: 2017-02-27
-location: "Atlanta, GA, USA"
+location: "Atlanta GA, USA"
 ---
 [Recorded presentations and slides](https://www.pathlms.com/siam/courses/4150/sections/5836)
 
