@@ -10,7 +10,7 @@
 | January 19 | Class Introduction <br> **In class:** _A Tale of 3 CS373 Students_ <br> **In class:** [Handbook](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf) quiz |   |
 | January 22 | **Individual:** Research Topic Possibilities |   |
 | January 26 | **Individual:** Progress update, outline & citations |   |
-| January 29 | **In class:** [Presentation Exercises](https://maherou.github.io/files/CS373/PresentationsThatWork.htm) |   |
+| January 29 | **In class:** [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork.html) |   |
 | February 2 | **In class:** PSOTF presentations ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). |   |
 | February 5 | **Due:** Preliminary SOTF paper ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). [Submit your PDF file](https://easychair.org/conferences/?conf=psotfspring2018). BY Midnight. | **No class: In Knoxville, TN** |
 | February 9 |   | **No class: In Knoxville, TN** |
