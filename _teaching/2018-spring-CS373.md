@@ -44,5 +44,5 @@ location: "Collegeville, MN, USA"
 - [Capstone Bingo](https://maherou.github.io/files/CS373/Bingo/Capstone-Bingo)
 
 ### Other Links:
-- [Links (URLs mentioned in class).](https://maherou.github.io/files/CS373-Links)
+- [Links (URLs mentioned in class).](https://maherou.github.io/files/CS373/CS373-Links)
 - [Biography Form (Complete prior to final SOFT presentation)](https://goo.gl/forms/GgD0Lv5nOvGxgNL23)
