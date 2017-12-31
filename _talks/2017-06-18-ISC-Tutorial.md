@@ -1,7 +1,7 @@
 ---
 title: "Linear Algebra Software for High Performance Computing"
 collection: talks
-type: "tutorial"
+type: "Tutorial"
 permalink: /talks/2017-06-18-ISC-Tutorial
 venue: "International Supercomputing Conference 2017"
 date: 2017-06-18
