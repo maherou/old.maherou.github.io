@@ -1,4 +1,4 @@
-% # CSCI 373: Capstone Bingo
+### CSCI 373: Capstone Bingo
 
 Setup:
 
