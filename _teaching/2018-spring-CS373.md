@@ -1,10 +1,10 @@
 ---
 title: "CS373 - Senior Research"
 collection: teaching
-type: "Undergraduate course"
+type: "Capstone Course"
 permalink: /teaching/2018-spring-CS373
 venue: "St. John's University, Department of Computer Science"
-date: 2018-01-20
+date: 2018-01-16
 location: "Collegeville, MN, USA"
 ---
 
@@ -25,12 +25,12 @@ location: "Collegeville, MN, USA"
 - Any time I am in my office.
  
 ### Course Pages:
-- Overview of Assignments and Grading.
-- Class Meeting Schedule.
-- Course Handbook.
-- Submit your regular reading assignment here.
+- [Class Meeting Schedule.](https://maherou.github.io/files/2018-Spring-Class-Meeting-Schedule.html)
+- [Overview of Assignments and Grading.](https://maherou.github.io/files/Overview-of-Assignments-and-Grading.html)
+- [Course Handbook.](https://maherou.github.io/files/CSCI373CourseHandbookFifteenthEdition.pdf)
+- [Submit your regular reading assignment here.](https://goo.gl/forms/4Oia1ZMdgUGPWuC83)
 - Some previous final papers are here.
-- Writing Evaluation Form.
+- [Writing Evaluation Form.](https://maherou.github.io/files/CS373-Writing-Evaluation-Form.md)
 - Presentation Evaluation Form.
 - Time Management and Personal Kanban.
 - Better (Technical) Writing (Exercises).
