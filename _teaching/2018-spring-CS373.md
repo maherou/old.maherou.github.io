@@ -31,18 +31,18 @@ location: "Collegeville, MN, USA"
 - [Submit your regular reading assignment here.](https://goo.gl/forms/4Oia1ZMdgUGPWuC83)
 - Some previous final papers are here. 
 - [Writing Evaluation Form.](https://maherou.github.io/files/CS373-Writing-Evaluation-Form)
-- Presentation Evaluation Form.
-- Time Management and Personal Kanban.
-- Better (Technical) Writing (Exercises).
-- Titles and Abstracts That Work (Exercises).
-- Presentations That Work (Exercises).
-- Technical Discussions That Work (Exercises).
-- Position Papers That Work (Exercise).
-- Using Latex.
-- Technical Writing and Speaking 2.0.
-- Recorded Presentation Activity.
-- Predictions That Work (Exercises).
-- A Course Retrospective ( In-class Exercises).
-- Biography Form (Complete prior to final SOFT presentation)
-- Capstone Bingo
-- Links (URLs mentioned in class).
+- [Presentation Evaluation Form.]((https://maherou.github.io/files/CS373-Presentation-Evaluation-Form))
+
+### Course Writing and Speaking Projects:
+- [Collegeville Scribe Project](https://collegeville.github.io/Scribe)
+- [Collegeville Orator Project](https://collegeville.github.io/Orator)
+
+### In-class Lectures:
+- [Time Management and Personal Kanban.](https://maherou.github.io/files/TimeManagement.pdf)
+- [Technical Writing and Speaking 2.0.](https://maherou.github.io/files/TechWritingSpeaking2.0.pdf)
+- [The Art of Prediction.](https://maherou.github.io/files/TheArtOfPrediction.pdf)
+- [Capstone Bingo](https://maherou.github.io/files/CS373/Bingo/Capstone-Bingo)
+
+### Other Links:
+- [Links (URLs mentioned in class).](https://maherou.github.io/files/CS373-Links)
+- [Biography Form (Complete prior to final SOFT presentation)](https://goo.gl/forms/GgD0Lv5nOvGxgNL23)
