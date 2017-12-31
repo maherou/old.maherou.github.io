@@ -1,13 +1,13 @@
 ## CS373 Writing Evaluation Form
 
-##
+*Use this checklist to assure you are submitting your best work.*
 
 Your assignment is graded on a five-point scale for each of the following ten writing rules.  An additional 50 points is graded for overall paper quality.
 
-**Rule #1** : Assume your reader is _intelligent_ but _ignorant_.                                        \_\_\_\_\_\_\_
+**Rule #1** : Assume your reader is _intelligent_ but _ignorant_.
 
-- --Did you write an introduction?
-- --Did you write a paper for experts only?
+-[ ] Did you write an introduction?
+-[ ] Did you write a paper for experts only?
 
 **Rule #2** :                                                                                 \_\_\_\_\_\_\_
 
