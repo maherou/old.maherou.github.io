@@ -6,8 +6,8 @@ Your assignment is graded on a five-point scale for each of the following ten wr
 
 **Rule #1** : Assume your reader is _intelligent_ but _ignorant_.
 
--[ ] Did you write an introduction?
--[ ] Did you write a paper for experts only?
+- [ ] Did you write an introduction?
+- [ ] Did you write a paper for experts only?
 
 **Rule #2** :                                                                                 \_\_\_\_\_\_\_
 
