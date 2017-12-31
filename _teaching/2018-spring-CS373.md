@@ -25,22 +25,22 @@ location: "Collegeville, MN, USA"
 - Any time I am in my office.
  
 ### Course Pages:
-- [Class Meeting Schedule.](https://maherou.github.io/files/2018-Spring-Class-Meeting-Schedule)
-- [Overview of Assignments and Grading.](https://maherou.github.io/files/Overview-of-Assignments-and-Grading)
-- [Course Handbook.](https://maherou.github.io/files/CSCI373CourseHandbookFifteenthEdition.pdf)
+- [Class Meeting Schedule.](https://maherou.github.io/files/CS373/2018-Spring-Class-Meeting-Schedule)
+- [Overview of Assignments and Grading.](https://maherou.github.io/files/CS373/Overview-of-Assignments-and-Grading)
+- [Course Handbook.](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)
 - [Submit your regular reading assignment here.](https://goo.gl/forms/4Oia1ZMdgUGPWuC83)
 - Some previous final papers are here. 
-- [Writing Evaluation Form.](https://maherou.github.io/files/CS373-Writing-Evaluation-Form)
-- [Presentation Evaluation Form.]((https://maherou.github.io/files/CS373-Presentation-Evaluation-Form))
+- [Writing Evaluation Form.](https://maherou.github.io/files/CS373/CS373-Writing-Evaluation-Form)
+- [Presentation Evaluation Form.]((https://maherou.github.io/files/CS373/CS373-Presentation-Evaluation-Form))
 
 ### Course Writing and Speaking Projects:
 - [Collegeville Scribe Project](https://collegeville.github.io/Scribe)
 - [Collegeville Orator Project](https://collegeville.github.io/Orator)
 
 ### In-class Lectures:
-- [Time Management and Personal Kanban.](https://maherou.github.io/files/TimeManagement.pdf)
-- [Technical Writing and Speaking 2.0.](https://maherou.github.io/files/TechWritingSpeaking2.0.pdf)
-- [The Art of Prediction.](https://maherou.github.io/files/TheArtOfPrediction.pdf)
+- [Time Management and Personal Kanban.](https://maherou.github.io/files/CS373/TimeManagement.pdf)
+- [Technical Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf)
+- [The Art of Prediction.](https://maherou.github.io/files/CS373/TheArtOfPrediction.pdf)
 - [Capstone Bingo](https://maherou.github.io/files/CS373/Bingo/Capstone-Bingo)
 
 ### Other Links:
