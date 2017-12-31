@@ -25,12 +25,12 @@ location: "Collegeville, MN, USA"
 - Any time I am in my office.
  
 ### Course Pages:
-- [Class Meeting Schedule.](https://maherou.github.io/files/2018-Spring-Class-Meeting-Schedule.html)
-- [Overview of Assignments and Grading.](https://maherou.github.io/files/Overview-of-Assignments-and-Grading.html)
+- [Class Meeting Schedule.](https://maherou.github.io/files/2018-Spring-Class-Meeting-Schedule)
+- [Overview of Assignments and Grading.](https://maherou.github.io/files/Overview-of-Assignments-and-Grading)
 - [Course Handbook.](https://maherou.github.io/files/CSCI373CourseHandbookFifteenthEdition.pdf)
 - [Submit your regular reading assignment here.](https://goo.gl/forms/4Oia1ZMdgUGPWuC83)
 - Some previous final papers are here.
-- [Writing Evaluation Form.](https://maherou.github.io/files/CS373-Writing-Evaluation-Form.md)
+- [Writing Evaluation Form.](https://maherou.github.io/files/CS373-Writing-Evaluation-Form)
 - Presentation Evaluation Form.
 - Time Management and Personal Kanban.
 - Better (Technical) Writing (Exercises).
