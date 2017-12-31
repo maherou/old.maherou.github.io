@@ -4,72 +4,70 @@
 
 Your assignment is graded on a five-point scale for each of the following ten writing rules.  An additional 50 points is graded for overall paper quality.
 
-**Rule #1** : Assume your reader is _intelligent_ but _ignorant_.
+**Rule #1:** Assume your reader is _intelligent_ but _ignorant_.
 
-- [ ] Did you write an introduction?
-- [ ] Did you write a paper for experts only?
+- Did you write an introduction?
+- Did you write a paper for experts only?
 
-**Rule #2** :                                                                                 \_\_\_\_\_\_\_
+**Rule #2:** Create a well-defined story arc.
 
 1. Tell them what you will say.
 2. Say it.
 3. Tell them what you said, and more.
 
-Use the conclusion to make your final clear points, synthesizing content.
+- Use the conclusion to make your final clear points, synthesizing content and drawing out implicit points.
 
-**Rule #3** : Define all terms and acronyms.                                                         \_\_\_\_\_\_\_
+**Rule #3:** Define all terms and acronyms.
 
-- --Use the format This is a New Acronym (TNM).
-- --Provide a description of new terms when you first use them.
+- Use the format New Acronym (NA).
+- Provide a description of new terms when you first use them.
 
-**Rule #4** : When possible, use plain language and avoid jargon.                                         \_\_\_\_\_\_\_
+**Rule #4:** When possible, use plain language and avoid jargon.
 
-- --Avoid informal language, contractions, slang and imprecise terms.
-- --Use concise sentences.
-- --Remember our motto: **Enough words, no more.**
+- Avoid informal language, contractions, slang and imprecise terms.
+- Use concise sentences.
+- Remember our motto: **Enough words, no more.**
 
-**Rule #5** : Make consistent use of terms and notation.                                                 \_\_\_\_\_\_\_
+**Rule #5** : Make consistent use of terms and notation.
 
-- --Read through your document to make sure you are defining and consistently using terms.
+- Read through your document to make sure you are defining and consistently using terms.
 
-**Rule #6** : Use pictures, charts and graphs, but keep in mind #4.                                 \_\_\_\_\_\_\_
+**Rule #6** : Use pictures, charts and graphs, but keep in mind #4.
 
-- --A picture is worth a thousand words, or more.  Use them.
-- --Provide a descriptive caption that explains the figure or table.
+- A picture is worth a thousand words, or more.  Use them.
+- Provide a descriptive caption that explains the figure or table.
 
-**Rule #7** : Use examples to explain complex ideas.                                                 \_\_\_\_\_\_\_
+**Rule #7** : Use examples to explain complex ideas.
 
-- --Any complex topic can benefit from providing a concrete example.
-- --But make sure the example is truly relevant.
+- Any complex topic can benefit from providing a concrete example.
+- But make sure the example is truly relevant.
 
-**Rule #8:** Search the literature and cite other works.                                                 \_\_\_\_\_\_\_
+**Rule #8:** Search the literature and cite other works.
 
-- --You should have at least 10 high-quality references that you have assimilated.
+- You should have a growing set of high-quality references that you have assimilated.
+  - 5 for PSOTF.
+  - 5 for Survey.
+  - 10 for Technical Analysis.
+  - 5 for Future Trends.
+  - 15 for SOTF.
 
-**Rule #9**** 1**: Use:                                                                                 \_\_\_\_\_\_\_
+**Rule #9**: Provide document structure (See notes below).
 
-- Headings (Chapter, Section, etc.).
-- Bulleted Lists, numbered lists.
+- Headings (Sections, subsections, etc.).
+- Bulleted, numbered lists.
 
-to provide structure, clarity and conciseness to your document.
+to provide clarity, conciseness and information hierarchy.
 
-- --LaTeX provides excellent support for these document elements.
+*LaTeX provides excellent support for these document elements.*
 
-**Rule #10**** 2**: Provide guidance:                                                                 \_\_\_\_\_\_\_
+**Rule #10**: Provide guidance (See notes below).
 
 - Table of Contents.
 - List of Figures, list of Tables.
 - Index and Glossary.
--
 
-- --LaTeX provides these elements as well!
+*LaTeX provides these elements as well!*
 
-1
-
-#
- Rule #9 is required for Technical Analysis and Final SOTF paper only.
-
-2
-
-#
- Rule #10 is required for Final SOTF paper only.
+#### Notes:
+- Rule #9 is required for Technical Analysis and Final SOTF paper only.
+- Rule #10 is required for Final SOTF paper only.
