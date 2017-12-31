@@ -25,6 +25,7 @@ Your assignment is graded on a five-point scale for each of the following ten wr
 **Rule #4:** Use plain language, avoid jargon, make each word count.
 
 - Avoid informal language, contractions, slang and imprecise terms.
+- Use "We" not "I", even though you are the only author.
 - Use concise sentences.
 - Remember our motto: **"Enough words, no more."**
 - Do a final EWNM iteration before submitting.
@@ -33,11 +34,11 @@ Your assignment is graded on a five-point scale for each of the following ten wr
 
 - Read through your document to make sure you are defining and consistently using terms.
 
-**Rule #6** : Use pictures, charts and graphs, but keep in mind #4.
+**Rule #6** : Use pictures, charts and graphs.
 
 - A picture is worth a thousand words, or more.  Use them.
 - Provide a descriptive caption that explains the figure or table. 2 - 3 sentences.
-- Goal for final paper: All figures, charts, graphs are yours.
+- Goal for final paper: All figures, charts, graphs are your creations.
 
 **Rule #7** : Use examples to explain complex ideas.
 
