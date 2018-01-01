@@ -1,6 +1,6 @@
 ---
 title: "Trilinos Project"
-excerpt: "The Trilinos project is a community effort to develop scientific and mathematical libraries that enable the soluction of large-scale multi-physics, multi-scale and related modeling and simulation problems on leadership computing platforms.<br/><img src='https://github.com/trilinos/Logos/blob/master/Trilinos_logo.jpg'>"
+excerpt: "The Trilinos project is a community effort to develop scientific and mathematical libraries that enable the soluction of large-scale multi-physics, multi-scale and related modeling and simulation problems on leadership computing platforms.<br/><img src='https://trilinos.github.com/Logos/Trilinos_logo.png'>"
 collection: portfolio
 ---
 
