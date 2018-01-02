@@ -31,7 +31,7 @@ location: "Collegeville, MN, USA"
 - [Submit your regular reading assignment here.](https://goo.gl/forms/4Oia1ZMdgUGPWuC83)
 - [Some previous final papers are here.](https://maherou.github.io/files/CS373/SamplePapers/SOTFPaperList)
 - [Writing Evaluation Form.](https://maherou.github.io/files/CS373/CS373-Writing-Evaluation-Form)
-- [Presentation Evaluation Form.]((https://maherou.github.io/files/CS373/CS373-Presentation-Evaluation-Form))
+- [Presentation Evaluation Form.](https://maherou.github.io/files/CS373/CS373-Presentation-Evaluation-Form)
 
 ### Course Writing and Speaking Projects:
 - [Collegeville Scribe Project](https://collegeville.github.io/Scribe)
