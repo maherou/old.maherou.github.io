@@ -1,4 +1,3 @@
-### CSCI 373: Previous Final Paper and Presentation Examples
 
 The following papers (and one presentation) are some good examples of what your final work could be.
 
