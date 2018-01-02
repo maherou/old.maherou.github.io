@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Pubs & Awards"
     url: /publications/
 
   - title: "Events"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Teaching & Service"
     url: /teaching/    
     
   - title: "Projects"
