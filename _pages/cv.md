@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* B.A in Applied Mathematics, St. John's University, 1984
-* M.S. in Applied Mathematics, Colorado State University, 1986
 * Ph.D in Applied Mathematics, Colorado State University, 1989
+* M.S. in Applied Mathematics, Colorado State University, 1986
+* B.A in Applied Mathematics, St. John's University, 1984
 
 Work experience
 ======
@@ -34,24 +34,21 @@ Work experience
   * Math Software Research Group (1988 - 1993), Engineering applications (1993 - 1998)
   * R&D in math and scientific libraries for supercomputing applications
   
-Publications
+Pubs & Awards
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Events
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching & Service
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
