@@ -6,13 +6,13 @@ main:
   - title: "Events"
     url: /talks/    
 
-  - title: "Teaching & Service"
+  - title: "Teaching-Service"
     url: /teaching/    
     
   - title: "Projects"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
     
   - title: "CV"
