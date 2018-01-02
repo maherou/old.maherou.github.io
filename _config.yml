@@ -15,9 +15,9 @@ url                      : https://maherou.github.io # the base hostname & proto
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maherou/maherou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -97,11 +97,11 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/michael-heroux-763590/"
+  linkedin         : "michael-heroux-763590"
   orcid            : "http://orcid.org/0000-0002-5893-0273"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/4480512/michael-heroux"
+  stackoverflow    : "4480512/michael-heroux"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
