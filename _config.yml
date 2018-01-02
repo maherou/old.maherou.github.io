@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mike Heroux Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Michael A. Heroux"
 description              : &description "Senior Scientist, Sandia National Labs; Scientist in Residence, St. John's University"
