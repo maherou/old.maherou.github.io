@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Bio"
 excerpt: "Michael (Mike) A. Heroux is a US mathematician and computer scientist working for the US Department of Energy and St. John's University, MN"
 author_profile: true
 redirect_from: 
