@@ -2,7 +2,7 @@
 title: "Editorial: ACM TOMS Replicated Computational Results Initiative"
 collection: publications
 permalink: /publication/2015-05-01-TOMS-RCR-Editorial
-excerpt: 'This paper describes the ACM Transactions on Mathematical Software Replicated Computational Results Initiative."
+excerpt: 'This paper describes the ACM Transactions on Mathematical Software Replicated Computational Results Initiative.'
 date: 2015-05-01
 venue: 'ACM Transactions on Mathematical Software.'
 paperurl: 'https://dl.acm.org/citation.cfm?id=2743015'
