@@ -6,6 +6,7 @@ excerpt: 'This list contains papers and article that are recent or frequently re
 date: 2018-01-06
 venue: 'Various'
 ---
+- [Sustainable & Productive: Improving Incentives for Quality Software](http://wssspe.researchcomputing.org.uk/wp-content/uploads/2016/06/WSSSPE4_paper_10.pdf)
 - [Exploring Container Technologies for Large Scientific Libraries: Docker and Trilinos](https://maherou.github.io/files/docs/2016TrilinosDockerReport_FINAL.pdf)
 - [HPCG Technical Specification](https://maherou.github.io/files/docs/HPCG-Specification.pdf)
 - [Toward a New Metric for Ranking High Performance Computing Systems](https://maherou.github.io/files/docs/HPCG-Benchmark.pdf)
