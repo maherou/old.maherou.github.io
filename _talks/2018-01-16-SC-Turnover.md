@@ -1,5 +1,5 @@
 ---
-title: "SC17 Tech Papers Chair and SC18 Reproducibility Chair"
+title: "SC17-SC18 Turnover Meeting"
 collection: talks
 type: "Talk"
 permalink: /talks/2018-01-16-SC-Turnover
