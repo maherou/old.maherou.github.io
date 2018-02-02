@@ -18,7 +18,7 @@
 | February 19 | **In class:** [Titles and Abstracts Exercises.](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) <br> **In class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/) |   |
 | February 23 | **In class:** [Position Papers.](https://collegeville.github.io/Scribe/PositionPapers/) Due Feb 26.  <br> **Individual:** Review of PSOTF talk & paper |   |
 | February 26 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) |   |
-| March 2 | **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)).Submit email attachment before midnight CT.  | **No class: TGIF  |
+| March 2 | **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)).Submit email attachment before midnight CT.  | **No class: TGIF**  |
 | March 5 |   | **No class: Spring Break** |
 | March 9 |   | **No class: Spring Break** |
 | March 12 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) <br> **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf) |   |
