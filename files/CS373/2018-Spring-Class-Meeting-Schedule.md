@@ -14,10 +14,11 @@
 | February 2 | **In class:** PSOTF presentations ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). |   |
 | February 5 | **Due:** Preliminary SOTF paper ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). [Submit your PDF file](https://easychair.org/conferences/?conf=psotfspring2018). BY Midnight. | **No class: In Knoxville, TN** |
 | February 9 |   | **No class: In Knoxville, TN** |
-| February 12 |   | **No class: In ABQ** |
-| February 19 | **In class:** [Titles and Abstracts Exercises.](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) <br> **In class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/) |   |
-| February 23 | **In class:** [Position Papers.](https://collegeville.github.io/Scribe/PositionPapers/) Due Feb 26.  <br> **Individual:** Review of PSOTF talk & paper |   |
-| February 26 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) |   |
+| February 12 | **In class:** [Titles and Abstracts Exercises.](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) Due Feb 16. <br> **In class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/) |   |
+| February 16 | **In class:** [Position Papers.](https://collegeville.github.io/Scribe/PositionPapers/) Due Feb 23.  <br> **Individual:** Review of PSOTF talk & paper |   |
+| February 19 |   | **No class: In ABQ, NM** |
+| February 23 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) |   |
+| February 26 | **Individual:** Progress status. |   |
 | March 2 | **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)).Submit email attachment before midnight CT.  | **No class: TGIF**  |
 | March 5 |   | **No class: Spring Break** |
 | March 9 |   | **No class: Spring Break** |
