@@ -1,7 +1,7 @@
 ---
 title: 'Student Research Position'
-date: 2018-02-27
-permalink: /posts/2018/01/blog-sju-research/
+date: 2018-02-26
+permalink: /posts/2018/02/blog-2018-csbsju-research/
 tags:
   - student research
   - computer science
