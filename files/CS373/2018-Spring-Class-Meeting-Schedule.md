@@ -22,7 +22,8 @@
 | March 2 |   | **No class: TGIF**  |
 | March 5 |   | **No class: Spring Break** |
 | March 9 |   | **No class: Spring Break** |
-| March 12 | **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)).Submit email attachment before midnight CT. <br> **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) <br> **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf) |   |
+| March 11 | **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)).Submit email attachment before midnight CT. |   |
+| March 12 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) <br> **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf) |   |
 | March 16 | **Individual:** Review of Survey Paper. |   |
 | March 19 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due Nov 20) <br> **In class:** EasyChair Reviewer Instructions |   |
 | March 23 | **In class:** Tech Analysis Talks ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). |  |
