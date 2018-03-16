@@ -25,7 +25,7 @@
 | March 11 | **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). Submit email attachment before midnight CT. |   |
 | March 12 | | **No class**.  |
 | March 16 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) <br> **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf) <br> **Individual:** Review of Survey Paper. |   |
-| March 19 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due Nov 20) <br> **In class:** EasyChair Reviewer Instructions |   |
+| March 19 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due Mar 29) <br> **In class:** EasyChair Reviewer Instructions | **Late start: 3 pm**  |
 | March 23 | **In class:** Tech Analysis Talks ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). |  |
 | March 26, 30; April 2 |   | **No class: At SOS-22, Hawaii, Easter** |
 | April 6 | **Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=spring2018373techanaly) before midnight CST. |   |
