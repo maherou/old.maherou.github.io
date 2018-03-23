@@ -26,9 +26,9 @@
 | March 12 | | **No class**.  |
 | March 16 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) <br> **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf) <br> **Individual:** Review of Survey Paper. |   |
 | March 19 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due Mar 29) <br> **In class:** EasyChair Reviewer Instructions | **Late start: 3 pm**  |
-| March 23 | **In class:** Tech Analysis Talks ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). |  |
+| March 23 |  |  |
 | March 26, 30; April 2 |   | **No class: At SOS-22, Hawaii, Easter** |
-| April 6 | **Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=spring2018373techanaly) before midnight CST. |   |
+| April 6 | **In class:** Tech Analysis Talks ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). <br> **Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=spring2018373techanaly) before midnight CST. |   |
 | April 9 | **Individual:** Progress meeting. |  |
 | April 13 | **Due:** Peer review of Tech Analysis papers  | **No class: In Denver** |
 | April 16 | **In class:** [Recorded presentations.](https://collegeville.github.io/Orator/RecordedPresentations) <br> **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). |   |
