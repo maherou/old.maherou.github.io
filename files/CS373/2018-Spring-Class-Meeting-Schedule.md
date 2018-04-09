@@ -30,9 +30,9 @@
 | March 26, 30; April 2 |   | **No class: At SOS-22, Hawaii, Easter** |
 | April 6 | **In class:** Tech Analysis Talks ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). <br> **Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=spring2018373techanaly) before midnight CST. |   |
 | April 9 | **Individual:** Progress meeting. |  |
-| April 13 | **Due:** Peer review of Tech Analysis papers  | **No class: In Denver** |
-| April 16 | **In class:** [Recorded presentations.](https://collegeville.github.io/Orator/RecordedPresentations) <br> **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). |   |
-| April 20 |   | **No class: In DC** |
+| April 13 |  | **No class: In Denver** |
+| April 16 | **In class:** [Recorded presentations.](https://collegeville.github.io/Orator/RecordedPresentations) <br> **Due:** Peer review of Tech Analysis papers |   |
+| April 20 | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)).   | **No class: In DC** |
 | April 23 |   | **No class: In Oregon** |
 | April 30 | **Individual:** Progress meeting. |  |
 | May 4    | **In class:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/), [Capstone Bingo](https://maherou.github.io/files/CS373/Bingo/Capstone-Bingo) |  |
