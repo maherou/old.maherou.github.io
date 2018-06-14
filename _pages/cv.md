@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV in PDF format - link](https://maherou.github.io/files/MichaelAllenHerouxVitaMarch2017Medium.pdf)
+[Full CV in PDF format - link](https://maherou.github.io/files/MichaelAllenHerouxVitaJune2018Medium.pdf)
 
 Education
 ======
