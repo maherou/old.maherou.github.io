@@ -20,22 +20,20 @@
 | October 12 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) |   |
 | October 15 | **Individual:** Progress status. |   |
 | October 19 |   | **No class: In Pittsburg, PA**  |
-| March 5 |   | **No class: Spring Break** |
-| March 9 |   | **No class: Spring Break** |
-| March 11 | **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). Submit email attachment before midnight CT. |   |
-| March 12 | | **No class**.  |
-| March 16 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) <br> **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf) <br> **Individual:** Review of Survey Paper. |   |
-| March 19 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due Mar 29) <br> **In class:** EasyChair Reviewer Instructions | **Late start: 3 pm**  |
-| March 23 |  |  |
-| March 26, 30; April 2 |   | **No class: At SOS-22, Hawaii, Easter** |
-| April 6 | **In class:** Tech Analysis Talks ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). <br> **Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=spring2018373techanaly) before midnight CST. |   |
-| April 9 | **Individual:** Progress meeting. |  |
-| April 13 |  | **No class: In Denver** |
-| April 16 | **In class:** [Recorded presentations.](https://collegeville.github.io/Orator/RecordedPresentations) <br> **Due:** Peer review of Tech Analysis papers |   |
-| April 20 | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)).   | **No class: In DC** |
-| April 23 |   | **No class: In Oregon** |
-| April 30 | **Individual:** Progress meeting. |  |
-| May 4    | **In class:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/), [Capstone Bingo](https://maherou.github.io/files/CS373/Bingo/Capstone-Bingo) |  |
-| May 7 - 10 | **Individual:** SOTF Presentation Dry Run [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf) | **Dry Run of Formal presentations** |
-| May 11 | **Due:** Final SOTF Talk [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf) | **Formal presentations** |
-| May 11  | **Due:** Final SOTF Paper [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf) | **Submit before you leave campus.** |
+| October 22 | **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). Submit email attachment before midnight CT. |   |
+| October 26 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) <br> **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf) <br> **Individual:** Review of Survey Paper. |   |
+| October 29 |   | **No class: In Knoxville, TN**  |
+| November 2 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due Nov 7) <br> **In class:** EasyChair Reviewer Instructions |  |
+| November 5 | **In class:** Tech Analysis Talks ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). <br> **Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=spring2018373techanaly) before midnight CST. |   |
+| November 9 | **Individual:** Progress meeting. |  |
+| November 12 |  | **No class: In Dallas** |
+| November 16 |  | **No class: In Dallas** |
+| November 19 | **In class:** [Recorded presentations.](https://collegeville.github.io/Orator/RecordedPresentations) <br> **Due:** Peer review of Tech Analysis papers |   |
+| November 26 | **Individual:** Progress meeting. |  |
+| November 30 | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)).   | **No class: In DC** |
+| December 3 | **TBD**  |  |
+| December 7 | **TBD**  |  |
+| December 10 | **In class:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/), [Capstone Bingo](https://maherou.github.io/files/CS373/Bingo/Capstone-Bingo) |  |
+| December 12 - 14 | **Individual:** SOTF Presentation Dry Run [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf) | **Dry Run of Formal presentations** |
+| December 17 | **Due:** Final SOTF Talk [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf) | **Formal presentations** |
+| December 18  | **Due:** Final SOTF Paper [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf) | **Submit before you leave campus.** |
