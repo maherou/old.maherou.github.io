@@ -6,8 +6,8 @@
 
 | **Date** | **Assignment and Exercises** | **Notes** |
 | --- | --- | --- |
-| August 27 | Class Introduction <br> **In class:** Reference librarian (J. Carlson) |   |
-| August 31 |**In class:** [Handbook](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf) quiz <br>  _A Tale of 3 CS373 Students_ |   |
+| August 27 | **In class:** Class Introduction  |   |
+| August 31 |**In class:** Reference librarian (J. Carlson) <br> [Handbook](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf) quiz <br>  _A Tale of 3 CS373 Students_ |   |
 | September 3 | **Individual:** Research Topic Possibilities | **No class:** On your own  |
 | September 7 | **Individual:** Progress update, outline & citations |   |
 | September 10 | **In class:** [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |
