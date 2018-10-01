@@ -18,8 +18,8 @@
 | September 26 | **Due:** Preliminary SOTF paper ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). [Submit your PDF file](https://easychair.org/conferences/?conf=fall2018psotf). BY Midnight. | **No class:** Paper due |
 | September 28 |  **Individual:** Optional progress status. | |
 | October 1 | **In class:** [Titles and Abstracts Exercises.](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) Due Oct 5. <br> **In class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/) |   |
-| October 5 | **In class:** [Position Papers.](https://collegeville.github.io/Scribe/PositionPapers/) Due Oct 12.  <br> **Individual:** Review of PSOTF talk & paper |   |
-| October 12 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) |   |
+| October 5 |  | **No class**  |
+| October 12 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br> **In class:** [Position Papers.](https://collegeville.github.io/Scribe/PositionPapers/) Due Oct 12. |   |
 | October 15 | **Individual:** Progress status. |   |
 | October 19 |   | **No class: In Pittsburg, PA**  |
 | October 22 | **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)). Submit email attachment before midnight CT. |   |
