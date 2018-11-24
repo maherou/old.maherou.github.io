@@ -33,7 +33,7 @@
 | November 19 | **In class:** [Recorded presentations.](https://collegeville.github.io/Orator/RecordedPresentations) <br> **Due:** Peer review of Tech Analysis papers |   |
 | November 26 | **No class.** |  |
 | November 30 | **Individual:** Progress meeting. |  |
-| December 3 | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)).    |  |
+| December 3 | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)).    | **No class** |
 | December 7 | Guest Q & A | [Lois Curfman McInnes](https://press3.mcs.anl.gov/curfman/), Argonne National Laboratory   |
 | December 10 | **In class:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/), [Capstone Bingo](https://maherou.github.io/files/CS373/Bingo/Capstone-Bingo) |  |
 | December 12 - 14 | **Individual:** SOTF Presentation Dry Run [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf) | **Dry Run of Formal presentations** |
