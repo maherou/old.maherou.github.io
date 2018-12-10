@@ -34,7 +34,7 @@
 | November 26 | **No class.** |  |
 | November 30 | **Individual:** Progress meeting. |  |
 | December 3 | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf)).    | **No class** |
-| December 7 | Guest Q & A | [Lois Curfman McInnes](https://press3.mcs.anl.gov/curfman/), Argonne National Laboratory [Slides](https://maherou.github.io/files/CS373/mcinnes2018.pdf) <br> [Ryan Tillotson](https://www.csbsju.edu/xpd/students/exploring-majors-and-careers/alum-spotlights/ryan-tillotson)  |
+| December 7 | Guest Q & A | [Lois Curfman McInnes](https://press3.mcs.anl.gov/curfman/), Argonne National Laboratory [Slides](https://maherou.github.io/files/CS373/mcinnes2018.pdf) <br> [Ryan Tillotson](https://www.csbsju.edu/xpd/students/exploring-majors-and-careers/alum-spotlights/ryan-tillotson) [Slides](https://maherou.github.io/files/CS373/Tillotson.pdf) |
 | December 10 | **In class:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/), [Capstone Bingo](https://maherou.github.io/files/CS373/Bingo/Capstone-Bingo) |  |
 | December 12 | **Individual:** SOTF Presentation Dry Run [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf) | **Dry Run of Formal presentations** |
 | December 13 | **Due:** Final SOTF Talk [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf) | **Formal presentations** |
