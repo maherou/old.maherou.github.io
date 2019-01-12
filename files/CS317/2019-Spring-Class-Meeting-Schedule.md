@@ -6,7 +6,8 @@
 
 | **Date** | **Assignment and Exercises** | **Notes** |
 | --- | --- | --- |
-| January 14 | **Video lecture and assignment:** Approximating Pi Using Simulations[Video](https://youtu.be/CGwoMEXqh7A), [Slides](https://maherou.github.io/files/CS317/ApproximatingPiUsingSimulations.pdf) <br> **Assignment due:** January 21| **No class:**  |
+| January 14 | **Video lecture and assignment:** <br>
+               Approximating Pi Using Simulations [Video](https://youtu.be/CGwoMEXqh7A), [Slides](https://maherou.github.io/files/CS317/ApproximatingPiUsingSimulations.pdf) <br> **Assignment due:** January 21| **No class:**  |
 | January 18 |  | **No class:** On your own  |
 | January 21 | **In class:** Class Introduction |   |
 | January 25 | **Group:** Team Policy Definition | **No class:** On your own  |
