@@ -25,7 +25,7 @@ location: "Collegeville, MN, USA"
 - Any time I am in my office.
  
 ### Course Pages:
-- [Class Meeting Schedule.](https://maherou.github.io/files/CS317/2019-spring-Class-Meeting-Schedule)
+- [Class Meeting Schedule.](https://maherou.github.io/files/CS317/2019-Spring-Class-Meeting-Schedule)
 - [Overview of Assignments and Grading.](https://maherou.github.io/files/CS317/Overview-of-Assignments-and-Grading)
 
 ### Course Writing and Speaking Projects:
