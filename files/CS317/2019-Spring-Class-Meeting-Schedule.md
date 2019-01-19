@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | January 14 | **Video lecture and assignment:** <br> Approximating Pi Using Simulations [Video](https://youtu.be/CGwoMEXqh7A), [Slides](https://maherou.github.io/files/CS317/ApproximatingPiUsingSimulations.pdf) <br> **Assignment due:** January 21| **No class:** In Houston |
 | January 18 |  | **No class:** In Houston  |
-| January 21 | **In class:** Class Introduction |   |
+| January 21 | **In class:** Class Introduction <br> **Assignment:** [Approximating Pi in C++](https://maherou.github.io/files/CS317/CPP-Pi). Due February 1.|   |
 | January 25 | **Group:** Team Policy Definition |   |
 | January 28 | **Group:** TBD |   |
 | February 1 | **In class:** Introduction to Kanban. |   |
