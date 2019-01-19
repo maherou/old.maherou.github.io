@@ -1,6 +1,6 @@
 ### Approximating Pi using C++
 
-#### Goal: Write a C++ program to approximate Pi using random numbers, using your Java code as a working example.
+#### Goal: Write a C++ program to approximate Pi using random numbers, using your Java code as reference.
 
 #### Resources:
 - [http://www.cplusplus.com/doc/tutorial](http://www.cplusplus.com/doc/tutorial) - A good starting point for learning about C++.
