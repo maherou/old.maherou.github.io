@@ -1,4 +1,4 @@
-## The 0<sup>th</sup> Little Pig: Completing The Three Little Pigs 
+## The 0<sup>th</sup> Little Pig 
 ### Michael A. Heroux
 #### "Little pig, little pig, let me come in..." [by Margaret](https://maherou.github.io/files/LittlePig.AVI)
 
