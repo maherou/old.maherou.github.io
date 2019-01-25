@@ -9,7 +9,7 @@
 | January 14 | **Video lecture and assignment:** <br> Approximating Pi Using Simulations [Video](https://youtu.be/CGwoMEXqh7A), [Slides](https://maherou.github.io/files/CS317/ApproximatingPiUsingSimulations.pdf) <br> **Assignment due:** January 21| **No class:** In Houston |
 | January 18 |  | **No class:** In Houston  |
 | January 21 | **In class:** Class Introduction and User Stories<br> **Assignment:** [Approximating Pi in C++](https://maherou.github.io/files/CS317/CPP-Pi). Due February 1. <br> **Assignment:** [User stories to define GitHub usage model](https://docs.google.com/document/d/1jdObI_Y5u4S-vy3SmLaIgzIGuh5ekN0pucaPpPXI5CU/edit?usp=sharing) Due January 25.|   |
-| January 25 | **In class:** <br> [The 0<sup>th</sup> Little Pig](https://maherou.github.io/files/ZerothLittlePig) <br>[Phase 1 Teams](https://maherou.github.io/files/CS317/PhaseOneTeams) <br> Group Exercises <br> GitHub Usage Model Decisions <br>   **Assignment:** Design tools user stories and options |   |
+| January 25 | **In class:** <br> [The 0<sup>th</sup> Little Pig](https://maherou.github.io/files/ZerothLittlePig) <br>[Phase 1 Teams](https://maherou.github.io/files/CS317/PhaseOneTeams) <br> Group Exercises <br> GitHub Usage Model Decisions <br>   **Assignment:** <br> Design tools user stories and options. <br> [Create team policies](https://maherou.github.io/files/CS317/TeamPolicyAssignment) |   |
 | January 28 |  | **No class:** In Washington, DC  |
 | February 1 | **In class:** Design Tools Presentations <br> **Assignment:** Development environments user stories and options <br> **Assignment:** PlayingCards class design.  Due Feb 8. |   |
 | February 4 | **In class:** Development environment presentations. <br> **In class:** Solitaire modeling. |   |
