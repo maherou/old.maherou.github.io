@@ -5,7 +5,7 @@ You have probably heard the story of [Three Little Pigs](https://en.wikipedia.or
 
 ZLP was another of the pig siblings, known for detailed planning, sparing no cost, and putting in long workdays in making sure that all was perfect.  ZLP also left home with its siblings, to make its own way in the world.  
 
-Like its siblings, ZLP started building its new home.  It first planned its fortress in great detail, making sure it would be impenetrable. It then went into the city to find the right materials, acquiring only the best.  Finally, it started building, hiring a top construction crew to help.  As construction proceeded, the zeroth pig learned a clever new way to improve its house, even though the changes required re-planning that made its existing detailed plans obsolete.  Furthermore, parts of the home needed to be torn down to accommodate the improvements.  
+Like its siblings, ZLP started building its new home.  It first planned its fortress in great detail, making sure it would be impenetrable. It then went into the city to find the right materials, acquiring only the best.  Finally, it started building, hiring a top construction crew to help.  As construction proceeded, ZLP learned a clever new way to improve its house, even though the changes required re-planning that made its existing detailed plans obsolete.  Furthermore, parts of the home needed to be torn down to accommodate the improvements.  
 
 After adjusting plans and rebuilding torn down parts, ZLP became unhappy with the quality of some work, asking the construction crew to redo it to perfection.  Obviously, the re-planning and re-work put construction way behind schedule.  During construction ZLP slept in a hammock under a partial roof next to the fireplace.
 
