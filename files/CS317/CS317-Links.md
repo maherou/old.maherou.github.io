@@ -17,8 +17,6 @@ _Subscription to daily email provides links to interesting articles.  Here are a
 
 **Dr. Heroux's Sites:**
 
-_Better Scientific Software (BSSw)_
-
 [The Better Scientific Software Portal](https://bssw.io)
 
 [The Extreme-scale Scientific Software Stack](http://e4s.io)
