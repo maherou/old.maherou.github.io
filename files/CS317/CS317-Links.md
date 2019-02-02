@@ -14,6 +14,7 @@ _Subscription to daily email provides links to interesting articles.  Here are a
 **Gizmodo.com:**
 
 [I cut Google out of my life.  It screwed up everything.](https://gizmodo.com/i-cut-google-out-of-my-life-it-screwed-up-everything-1830565500)
+
 **Dr. Heroux's Sites:**
 
 _Better Scientific Software (BSSw)_
