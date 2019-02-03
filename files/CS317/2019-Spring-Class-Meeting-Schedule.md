@@ -18,8 +18,8 @@
 | February 15 | **In class:** Test-driven Development and Continuous Integration. <br> **In class:** Code formatting tools presentations. | |
 | February 18 | **In class:** TBD | |
 | February 22 | **In class:** TBD | |
-| February 25|   | **No class: TGIM**  |
-| March 1 | **In class:** TBD | |
+| February 25| **In class:** TBD  | |
+| March 1 |  |  **No class: TGIF**  |
 | March 4 |   | **No class: Spring Break** |
 | March 8 |   | **No class: Spring Break** |
 | March 11 | **In class:** TBD | |
