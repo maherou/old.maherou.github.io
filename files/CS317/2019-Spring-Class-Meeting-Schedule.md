@@ -12,7 +12,7 @@
 | January 25 | **In class:** <br> [The 0<sup>th</sup> Little Pig](https://maherou.github.io/files/ZerothLittlePig) <br>[Phase 1 Teams](https://maherou.github.io/files/CS317/PhaseOneTeams) <br> Group Exercises <br> GitHub Usage Model Decisions <br>   **Assignment:** <br> Design tools user stories and options. <br> [Create team policies](https://maherou.github.io/files/CS317/TeamPolicyAssignment) |   |
 | January 28 |  | **No class:** In Washington, DC  |
 | February 1 | **In class:** <br> Design Tools Presentations <br> [The Fisher-Yates (Knuth version) Algorithm](https://exceptionnotfound.net/understanding-the-fisher-yates-card-shuffling-algorithm/) <br> [Agile Small Teams](https://maherou.github.io/files/CS317/AgileSmallTeams.pdf)<br> **Assignment:** Development environments user stories and options <br> **Assignment:** PlayingCards class design.  Due Feb 8. |   |
-| February 4 | **In class:** <br> Review of Team Policies and Checklists - Reference [A-Team-Tools Site](https://betterscientificsoftware.github.io/A-Team-Tools/) <br> Development environment presentations.  <br> Solitaire modeling. |   |
+| February 4 | **In class:** <br> Review of Team Policies and Checklists - Reference [A-Team-Tools Site](https://betterscientificsoftware.github.io/A-Team-Tools/) <br> Development environment presentations.  <br> [Solitaire modeling.](https://maherou.github.io/files/Solitaire) |   |
 | February 8 | **In class:** <br> PlayingCard design review. <br> Solitaire Implementation Strategy.| |
 | February 11 | **In class:** Team policies. <br> **Assignment:** Code formatting tools user stories and options. | |
 | February 15 | **In class:** Test-driven Development and Continuous Integration. <br> **In class:** Code formatting tools presentations. | |
