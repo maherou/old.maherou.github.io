@@ -15,7 +15,7 @@
 | February 4 | **In class:** <br> Review of Team Policies and Checklists - Reference [A-Team-Tools Site](https://betterscientificsoftware.github.io/A-Team-Tools/) <br> Development environment presentations.  <br> [Solitaire modeling.](https://maherou.github.io/files/CS317/Solitaire) |   |
 | February 8 | **In class team presentations:** <br> PlayingCard design review. <br> Solitaire Implementation Strategy.| |
 | February 11 |**Assignment:** C++ unit testing user stories and options.  | **No class: TGIM** |
-| February 15 | **In class lecture:** <br> Code formatting with clang-format <br> How to time code execution <br> | |
+| February 15 | **In class lecture:** <br> [Code formatting with clang-format](https://maherou.github.io/files/CS317/CodeFormatting) <br> [How to time code execution](https://maherou.github.io/files/CS317/TimingCode)| |
 | February 18 | **In class lecture:** Design documents  <br> **In class team demo:** Unit testing tools presentations. <br> **In class team demo:** Solitaire simulator MVP demo. | |
 | February 22 | **In class project deadline and demo:** Solitaire simulator demo.  | |
 | February 25| **In class lecture:** OpenMP intro  | |
