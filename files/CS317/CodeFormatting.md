@@ -9,9 +9,9 @@ Consistent code formatting is a very simple and powerful way to improve the effe
 clang is the C++ and C compiler for the LLVM project.  LLVM and its related compiler tools provide a community-developed open source product suite that continues to grow in value and ubiquity.  clang-format is one of the tools in this suite.  While it is part of the clang effort, clang-format can be used as a stand-alone tool.  Furthermore, it can be integrated into many IDEs and commit processes, automating the process of keeping source code compliant with team policies.
 
 Resources:
-- https://clang.llvm.org/docs/ClangFormat.html - Main reference page for clang-format
-- https://engineering.mongodb.com/post/succeeding-with-clangformat-part-1-pitfalls-and-planning - Code formatting guidance, Part 1
-- https://engineering.mongodb.com/post/succeeding-with-clangformat-part-2-the-big-reformat - Code formatting guidance, Part 2
+- [clang-format reference page](https://clang.llvm.org/docs/ClangFormat.html) - Main reference page for clang-format
+- [MongoDB clang-format guidance, Part 1](https://engineering.mongodb.com/post/succeeding-with-clangformat-part-1-pitfalls-and-planning)
+- [MongoDB clang-format guidance, Part 2](https://engineering.mongodb.com/post/succeeding-with-clangformat-part-2-the-big-reformat)
 
 #### Final note
 While clang-format permits many customizations for the output format, it is strongly recommended that you use the tool without changing any style options.  Only after a few months of using it, should you attempt to try some customizations will help your team.  Even then, customize only what is really needed.  Customization comes with its own maintainence and non-uniformity costs, especially for developers who work across more than one project, each with its own set of customizations.
