@@ -16,10 +16,10 @@
 | February 8 | **In class team presentations:** <br> PlayingCard design review. <br> Solitaire Implementation Strategy.| |
 | February 11 |**Assignment:** C++ unit testing user stories and options.  | **No class: TGIM** |
 | February 15 | **In class lecture:** <br> [Code formatting with clang-format](https://maherou.github.io/files/CS317/CodeFormatting) <br> [How to time code execution](https://maherou.github.io/files/CS317/TimingCode)| |
-| February 18 | **In class lecture:** Design documents  <br> **In class team demo:** Unit testing tools presentations. <br> **In class team demo:** Solitaire simulator MVP demo. | |
+| February 18 | **In class lecture:** Design documents  <br> **In class team demo:** Unit testing tools presentations. <br> **In class team demo:** Solitaire simulator MVP demo. | **Note:** Class starts at 3 pm. |
 | February 22 | **In class project deadline and demo:** Solitaire simulator demo.  | |
 | February 25| **In class lecture:** OpenMP intro  | |
-| March 1 |  |  **No class: TGIF**  |
+| March 1 | **Assignment:** Take-home essay due |  **No class: TGIF**  |
 | March 4 |   | **No class: Spring Break** |
 | March 8 |   | **No class: Spring Break** |
 | March 11 | **In class lecture:** Tournament Ranking Simulations. <br> **Assignment:** March Madness Predictor | |
