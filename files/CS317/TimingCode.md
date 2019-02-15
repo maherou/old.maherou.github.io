@@ -33,8 +33,14 @@ This simple timing function is used in the TOP500 computer system ranking benchm
 
 The C++11 standard provides standard functionality in the chrono library.  The HPCG benchmark function could, in principle, be re-written using chrono.  Here are some resources for finding out more about chrono:
 
-- https://en.cppreference.com/w/cpp/chrono - C++ Standard Reference
-- https://www.youtube.com/watch?v=LL8wkskDlbs Using chrono, part 1
-- https://www.youtube.com/watch?v=RuPfDfLKY04 Using chrono, part 2
+- [C++ Standard Reference](https://en.cppreference.com/w/cpp/chrono)
+- [Using chrono, part 1 - video](https://www.youtube.com/watch?v=LL8wkskDlbs) 
+- [Using chrono, part 2 - video](https://www.youtube.com/watch?v=RuPfDfLKY04)
+
+#### Assignment: Add a timer to your Solitaire Game
+Details:
+- The timer should record and report the execution time of the performance sensitive portions of your code.  
+- Timing should be reported as a statistical mean and standard deviation.
+- For small code fragments (if any), investigate of there are timing spikes by providing a histogram analysis.
 
 
