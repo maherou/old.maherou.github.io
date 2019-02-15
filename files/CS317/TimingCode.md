@@ -1,4 +1,5 @@
-# A Brief Overview of C++ Execution Timing
+
+### A Brief Overview of C++ Execution Timing
 
 #### Introduction
 Making code more efficient requires measuring the time required to complete execution of a given phase or set of functions.  Someone who is just learning C++ may be surprised by the wide variety of timing methods available, and the relatively recent emergence of a standard for timing C++ code.
