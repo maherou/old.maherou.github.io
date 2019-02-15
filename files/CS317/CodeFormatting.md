@@ -1,4 +1,4 @@
-# C++ Code Formatting
+### C++ Code Formatting
 
 #### Introduction
 In any kind of multi-person software project, reducing accidental or small-value differences in development practices is often beneficial.  One area where this is particularly true is code formatting.  C++, like most programming languages, permits a wide variety of source code formats that are still standard compliant. Placement of curly braces, spacing between arithmetic operators and alignment of code blocks are just a few examples where there is a lot of flexibility for programmers.
