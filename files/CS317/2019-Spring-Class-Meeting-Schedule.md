@@ -19,7 +19,7 @@
 | February 18 | **In class lecture:** Design documents  <br> **In class team demo:** Unit testing tools presentations. <br> **In class team demo:** Solitaire simulator MVP demo. | **Note:** Class starts at 3 pm. |
 | February 22 | **In class project deadline and demo:** Solitaire simulator demo.  | |
 | February 25| **In class lecture:** OpenMP intro  | |
-| March 1 | **Assignment:** [Take-home essay](https://goo.gl/forms/mHEdDNZpEtsIco9S2) due by 8 pm. <br> **Assignment:** [Team Assessment Form](https://goo.gl/forms/qPLQJbT1wdJr9iPY2)|  **No class: TGIF**  |
+| March 1 | **Assignment:** [Take-home essay](https://goo.gl/forms/mHEdDNZpEtsIco9S2) due by 8 pm. <br> **Assignment:** [Team Assessment Form](https://goo.gl/forms/qPLQJbT1wdJr9iPY2) <br> **Assignment:** Software Quality Engineering Practices Assessment |  **No class: TGIF**  |
 | March 4 |   | **No class: Spring Break** |
 | March 8 |   | **No class: Spring Break** |
 | March 11 | **In class lecture:** Tournament Ranking Simulations. <br> **Assignment:** March Madness Predictor | |
