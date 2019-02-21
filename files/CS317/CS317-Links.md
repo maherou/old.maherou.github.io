@@ -1,6 +1,16 @@
 ### CSCI 317: Useful Links
 
 
+**Agile Manifesto:** _The fundamental description behind all agile approaches._
+
+[Manifesto for Agile Software Development](https://agilemanifesto.org)
+
+**Cloud-based IDEs:**
+
+- AWS Cloud9
+- Gitpod.io
+- Eclipse Che
+
 **Medium.com:**
 
 _Subscription to daily email provides links to interesting articles.  Here are a couple._
