@@ -17,7 +17,7 @@
 | February 11 |**Assignment:** C++ unit testing user stories and options.  | **No class: TGIM** |
 | February 15 | **In class lecture:** <br> [Code formatting with clang-format](https://maherou.github.io/files/CS317/CodeFormatting) <br> [How to time code execution](https://maherou.github.io/files/CS317/TimingCode)| |
 | February 18 | **In class team demo:** Unit testing tools presentations. <br> **In class team demo:** Solitaire simulator MVP demo. | **Note:** Class starts at 3 pm. |
-| February 22| **In class lecture:** [Design documents](https://maherou.github.io/files/CS317/DesignDocs)   | |
+| February 22| **In class lecture:** <br> [Design documents](https://maherou.github.io/files/CS317/DesignDocs) <br> [Source Documentation](https://maherou.github.io/files/CS317/SourceDocumentation)  | |
 | February 25|   | **No class: TGIM**  |
 | March 1 | **In class project deadline and demo:** Solitaire simulator demo <br> **Assignment:** [Take-home essay](https://goo.gl/forms/mHEdDNZpEtsIco9S2) due by 8 pm. <br> **Assignment:** [Team Assessment Form](https://goo.gl/forms/qPLQJbT1wdJr9iPY2) <br> **Assignment:** [Software Practices Survey](https://goo.gl/forms/ASwSvWVvqwgUwyoA2) | |
 | March 4 |   | **No class: Spring Break** |
