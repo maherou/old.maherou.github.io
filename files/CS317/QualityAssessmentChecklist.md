@@ -6,6 +6,18 @@ A quality checklist should certainly contain items that a team is addressing at 
 
 Use this checklist as a starting point for your own assessment.  We will use it for major product presentations.  For each item you check, provide links to evidence that support your assertion.
 
+**Team Culture:**
+- [ ] Build team culture through non-work activities.
+- [ ] Regularly recognize and complement team members for their contributions.
+- [ ] Respectfully provide coaching to improve team effectiveness and efficiency.
+
+**Communication:**
+- [ ] Set up and use communication tools and processes for effective and rapid information exchange.
+- [ ] Use these tools and processes regularly.
+- [ ] Establish and use remote communication tools and processes for distributed team interactions.
+- [ ] Establish and use initiation and exit checklists.
+- [ ] Establish and use team policy statement.
+
 **Requirements and Analsys:**
 - [ ] Create user stories to capture basic product requirements.
 - [ ] Analyze, refine, prioritize, select and convert user stories into tasks for development.
@@ -40,8 +52,3 @@ Use this checklist as a starting point for your own assessment.  We will use it 
 - [ ] Make a citable version (with DOI) of your code and make it available on Zenodo or Figshare.
 - [ ] Generate user and developer documentation.
 - [ ] Create product branding, e.g. logo family, catchphrase, product description.
-
-**Team Culture:**
-- [ ] Build team culture through non-work activities.
-- [ ] Regularly recognize and complement team members for their contributions.
-- [ ] Respectfully provide coaching to improve team effectiveness and efficiency.
