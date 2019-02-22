@@ -19,7 +19,7 @@
 | February 18 | **In class team demo:** Unit testing tools presentations. <br> **In class team demo:** Solitaire simulator MVP demo. | **Note:** Class starts at 3 pm. |
 | February 22| **In class lecture:** <br> [Design documents](https://maherou.github.io/files/CS317/DesignDocs) <br> [Source Documentation](https://maherou.github.io/files/CS317/SourceDocumentation)  | |
 | February 25|   | **No class: TGIM**  |
-| March 1 | **In class project deadline and demo:** Solitaire simulator demo <br> **Assignment:** [Take-home essay](https://goo.gl/forms/mHEdDNZpEtsIco9S2) due by 8 pm. <br> **Assignment:** [Team Assessment Form](https://goo.gl/forms/qPLQJbT1wdJr9iPY2) <br> **Assignment:** [Software Practices Survey](https://goo.gl/forms/ASwSvWVvqwgUwyoA2) | |
+| March 1 | **In class project deadline and demo:** Solitaire simulator demo and assessment.  See [checklist](https://maherou.github.io/files/CS317/QualityAssessmentChecklist) <br> **Assignment:** [Take-home essay](https://goo.gl/forms/mHEdDNZpEtsIco9S2) due by 8 pm. <br> **Assignment:** [Team Assessment Form](https://goo.gl/forms/qPLQJbT1wdJr9iPY2) <br> **Assignment:** [Software Practices Survey](https://goo.gl/forms/ASwSvWVvqwgUwyoA2) | |
 | March 4 |   | **No class: Spring Break** |
 | March 8 |   | **No class: Spring Break** |
 | March 11 | **In class lecture:** Tournament Ranking Simulations. <br> **In class lecture:** OpenMP intro <br> **Assignment:** March Madness Predictor | |
