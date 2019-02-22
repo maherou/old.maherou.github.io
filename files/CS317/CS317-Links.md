@@ -2,14 +2,18 @@
 
 
 **Agile Manifesto:** _The fundamental description behind all agile approaches._
+- [Manifesto for Agile Software Development](https://agilemanifesto.org)
 
-[Manifesto for Agile Software Development](https://agilemanifesto.org)
+**Requirements Management:**
+- [User Stories - Atlassian](https://www.atlassian.com/agile/project-management/user-stories)
+- [User Stories: An Agile Introduction](http://www.agilemodeling.com/artifacts/userStory.htm)
+- [Replacing The User Story With The Job Story](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)
 
 **Cloud-based IDEs:**
 
-- AWS Cloud9
-- Gitpod.io
-- Eclipse Che
+- [AWS Cloud9](https://aws.amazon.com/cloud9/)
+- [Gitpod.io](https://www.gitpod.io)
+- [Eclipse Che](https://www.eclipse.org/che/)
 
 **Medium.com:**
 
