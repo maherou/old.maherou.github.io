@@ -21,3 +21,7 @@ There are numerous articles describing the elements of a good design document. H
 1. [jlhawn/design_docke_template.md](https://gist.github.com/jlhawn/0a861fb21e162bf367ad) - A markdown template for a design document.
 
 We will use the design template described in the first article [How to write a good software design doc](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c).
+
+#### Final Note
+
+Just because it is a good idea to write a design document before writing product source code, it is still a good idea to write some software as a part of the design.  Writing a new software product often comes with challenging design issues, officially known as a _wicked problem_ in the software literature.  In this situation, it is reasonable and recommended to write some prototype software that improves your design or addresses concerns about your design. 
