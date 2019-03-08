@@ -22,9 +22,9 @@
 | March 1 | **In class project deadline and demo:** Solitaire simulator demo and assessment.  See [checklist](https://maherou.github.io/files/CS317/QualityAssessmentChecklist) <br> **Assignment:** [Take-home essay](https://goo.gl/forms/mHEdDNZpEtsIco9S2) due by 8 pm. <br> **Assignment:** [Team Assessment Form](https://goo.gl/forms/qPLQJbT1wdJr9iPY2) <br> **Assignment:** [Software Practices Survey](https://goo.gl/forms/ASwSvWVvqwgUwyoA2) | |
 | March 4 |   | **No class: Spring Break** |
 | March 8 |   | **No class: Spring Break** |
-| March 11 | **In class lecture:** Tournament Ranking Simulations. <br> **In class lecture:** OpenMP intro <br> **Assignment:** March Madness Predictor | |
-| March 15 | **In class lecture:** Test-driven Development and Continuous Integration. <br> **Assignment Due:** Parallel Solitaire Simulator demo. | |
-| March 18 | **In class:** TBD | |
+| March 11 | **In class lecture:** "Bright Spots" and valgrind. | |
+| March 15 | **In class lecture:** Tournament Ranking Simulations. <br> **In class lecture:** OpenMP intro <br> **Assignment:** March Madness Predictor | |
+| March 18 | **In class lecture:** Test-driven Development and Continuous Integration. <br> **Assignment Due:** Parallel Solitaire Simulator demo. | |
 | March 22 |   | **No class: In Paris**  |
 | March 25 | **In class:** TBD  | |
 | March 29 | **In class:** TBD  | |
