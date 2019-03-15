@@ -23,8 +23,8 @@
 | March 4 |   | **No class: Spring Break** |
 | March 8 |   | **No class: Spring Break** |
 | March 11 | **In class lecture:** "Bright Spots" and valgrind. | |
-| March 15 | **In class lecture:** Tournament Ranking Simulations. <br> **In class lecture:** OpenMP intro <br> **Assignment:** March Madness Predictor | |
-| March 18 | **In class lecture:** Test-driven Development and Continuous Integration. <br> **Assignment Due:** Parallel Solitaire Simulator demo. | |
+| March 15 | **Assignment:** [March Madness Predictor](https://maherou.github.io/files/CS317/MarchMadness) <br> **Assignment:** [Solitaire - Part 2](https://maherou.github.io/files/CS317/Solitaire2)|  |
+| March 18 | **In class lecture:** Test-driven Development and Continuous Integration. | |
 | March 22 |   | **No class: In Paris**  |
 | March 25 | **In class:** TBD  | |
 | March 29 | **In class:** TBD  | |
