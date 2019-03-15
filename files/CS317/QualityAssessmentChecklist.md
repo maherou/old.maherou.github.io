@@ -25,9 +25,9 @@ Use this checklist as a starting point for your own assessment.  We will use it 
 - [ ] Experiment with Job Stories as an alternative to User Stories (see https://maherou.github.io/files/CS317/CS317-Links).
 
 **Design:**
-- [ ] Created basic design documents such as class, interaction and use case.
-- [ ] Wrote lightweight design documents
-- [ ] Wrote throw-away prototype code to explore high-risk design elements.
+- [ ] Create basic design documents such as class, interaction and use case.
+- [ ] Write lightweight design documents
+- [ ] Write throw-away prototype code to explore high-risk design elements.
 
 **Development:**
 - [ ] Create GitHub Isses describing major design and development tasks.
@@ -76,9 +76,9 @@ Copy and paste the text below to create your own Markdown checklist:
 - [ ] Experiment with Job Stories as an alternative to User Stories (see https://maherou.github.io/files/CS317/CS317-Links).
 
 **Design:**
-- [ ] Created basic design documents such as class, interaction and use case.
-- [ ] Wrote lightweight design documents
-- [ ] Wrote throw-away prototype code to explore high-risk design elements.
+- [ ] Create basic design documents such as class, interaction and use case.
+- [ ] Write lightweight design documents
+- [ ] Write throw-away prototype code to explore high-risk design elements.
 
 **Development:**
 - [ ] Create GitHub Isses describing major design and development tasks.
