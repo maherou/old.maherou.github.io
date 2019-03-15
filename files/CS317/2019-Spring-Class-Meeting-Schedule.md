@@ -26,8 +26,8 @@
 | March 15 | **In class team presentations:** Bright Spots from your team <br> **In class video:** ["Scaling Yourself as a Software Developer"](http://blog.martinig.ch/videos/scaling-yourself-as-a-software-developer/) <br> **Assignment:** [Solitaire - Part 2](https://maherou.github.io/files/CS317/Solitaire2)  |  |
 | March 18 | **In class discussion:** Scaling yourself <br> **Assignment:** [March Madness Predictor](https://maherou.github.io/files/CS317/MarchMadness) | |
 | March 22 |   | **No class: In Paris**  |
-| March 25 | **In class lecture:** Test-driven Development and Continuous Integration.  | |
-| March 29 | **In class:** TBD  | |
+| March 25 | **In class competition:** Solitaire Prizes  | |
+| March 29 | **In class lecture:** Test-driven Development and Continuous Integration.  | |
 | April 1 | | **No class: In Santa Fe** |
 | April 5 | **In class:** TBD | |
 | April 8 |   | **No class: In London**  |
