@@ -42,6 +42,8 @@ _Subscription to daily email provides links to interesting articles.  Here are a
 
 _Writing and Presenting articles_
 
+[The most famous data visualisation ever and what we can learn from it](https://towardsdatascience.com/the-most-famous-data-visualisation-ever-and-what-we-can-learn-from-it-abcdfa772548)
+
 [How PowerPoint is killing critical thought.](https://www.theguardian.com/commentisfree/2015/sep/23/powerpoint-thought-students-bullet-points-information?CMP=ema_565a)
 
 [Writing, Briefly.](http://www.paulgraham.com/writing44.html)
