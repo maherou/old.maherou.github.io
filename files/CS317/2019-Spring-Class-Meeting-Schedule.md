@@ -27,7 +27,7 @@
 | March 18 | **In class discussion:** Scaling yourself <br> **Assignment:** [March Madness Predictor](https://maherou.github.io/files/CS317/MarchMadness) | |
 | March 22 |   | **No class: In Paris**  |
 | March 25 | **In class competition:** Solitaire Prizes  | |
-| March 29 | **In class lecture:** Software Sustainability  | |
+| March 29 | **In class lecture:** [Reproducibility, Productivity and Sustainability](https://maherou.github.io/files/CS317/ReproducibilityProductivitySustainability.pdf)  | |
 | April 1 | | **No class: In Santa Fe** |
 | April 5 | **In class:** Status check on March Madness Predictor | |
 | April 8 |   | **No class: In London**  |
