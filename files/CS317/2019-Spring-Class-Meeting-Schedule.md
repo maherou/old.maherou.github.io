@@ -31,8 +31,8 @@
 | April 1 | | **No class: In Santa Fe** |
 | April 5 | **In class:** Status check on March Madness Predictor | |
 | April 8 |   | **No class: In London**  |
-| April 12 | **In class:** Test-driven Development and Continuous Integration | |
-| April 15 | **In class:** TBD | |
+| April 12 | **In class:** Status update on March Madness Predictor | |
+| April 15 | **In class:** Test-driven Development and Continuous Integration | |
 | April 19 |   | **No class: Easter Break**  |
 | April 22 |   | **No class: Easter Break**  |
 | April 26 | **In class:** TBD | |
