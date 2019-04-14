@@ -32,10 +32,10 @@
 | April 5 | **In class:** Status check on March Madness Predictor | |
 | April 8 |   | **No class: In London**  |
 | April 12 | **In class:** Status update on March Madness Predictor | |
-| April 15 | **In class:** [Using OpenMP for Parallel Programming](https://maherou.github.io/files/CS317/OpenMP) | |
+| April 15 | **In class:** [Using OpenMP for Parallel Programming](https://maherou.github.io/files/CS317/OpenMP) | **Note:** Class starts at 3 pm. |
 | April 19 |   | **No class: Easter Break**  |
 | April 22 |   | **No class: Easter Break**  |
-| April 26 | **In class:** TBD | |
-| April 29 | **In class:** TBD | |
-| May 3 | **In class:** TBD | |
-| May 6 - 10 | **Finals week:** TBD | |
+| April 26 | **In class:** Lottery winning and bringing on a new team member.| |
+| April 29 | **In class:** Course Concepts Review | **Note:** Class starts at 3 pm. |
+| May 3 | **In class:** Final Review of Solitaire and March Madness Projects. | |
+| May 6 - 10 | **Finals week:** 15-minute Individual Interviews | **Note:** Scheduled individually during finals week. |
