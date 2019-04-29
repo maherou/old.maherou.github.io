@@ -38,4 +38,4 @@
 | April 26 | **In class:** Lottery winning and bringing on a new team member.| |
 | April 29 | **In class:** Course Concepts Review | **Note:** Class starts at 3 pm. |
 | May 3 | **In class:** Final Review of Solitaire and March Madness Projects. Provide a brief summary and pointers to artifacts that address our [Quality Assessment Checklist.](https://maherou.github.io/files/CS317/QualityAssessmentChecklist)| |
-| May 6 - 10 | **Finals week:** 15-minute Individual Interviews | **Note:** Scheduled individually during finals week. |
+| May 6 - 10 | **Finals week:** 15-minute Individual Interviews.  See these [Interview Preparation Prompts](https://maherou.github.io/files/CS317/InterviewPrep) for discussion topics. | **Note:** Scheduled individually during finals week. |
