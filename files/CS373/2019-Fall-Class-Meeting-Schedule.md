@@ -6,7 +6,7 @@
 
 | **Date** | **Assignment and Exercises** | **Notes** |
 | --- | --- | --- |
-| August 26 |  | **No class:** In Albuquerque, NM |
+| August 26 | **Individual:** Study [Course Handbook](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf) | **No class:** In Albuquerque, NM |
 | August 30 |**In class:** Class Introduction <br> **In class:** [Handbook](https://maherou.github.io/files/CS373/CSCI373CourseHandbookFifteenthEdition.pdf) quiz <br> **In class:** Reference librarian (J. Carlson) <br> **In class:**  _A Tale of 3 CS373 Students_ |   |
 | September 2 | **Individual:** Research Topic Possibilities | **No class:** On your own  |
 | September 6 | **Individual:** Progress update, outline & citations |   |
