@@ -11,7 +11,7 @@
 | September 2 | **Individual:** Research Topic Possibilities | **No class:** On your own  |
 | September 6 | **Individual:** Progress update, outline & citations |   |
 | September 9 | **In class:** [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |
-| September 13 | **In class:** [A Better Professional You](https://maherou.github.io/files/CS373/BetterYou.pdf) <br> **In class:** ATLB Discussion: Introduction and Chapter 1  |   |
+| September 13 | **In class:** [A Better Professional You](https://maherou.github.io/files/CS373/BetterYou.pdf) <br> **In class:** [ATLB Discussion: Introduction and Chapter 1](https://maherou.github.io/files/CS373/ATLB-Discussion)  |   |
 | September 16 | **In class:** [Titles and Abstracts Exercises.](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) Due Oct 5. <br> **In class:** ATLB Discussion: Chapter 2 & 3 <br> **In class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/) |   |
 | September 20 |  | **No class: In Washington, DC** |
 | September 23 | | **No class: In Albuquerque, NM**   |
