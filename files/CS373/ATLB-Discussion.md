@@ -1,4 +1,7 @@
-## Discussion Points for [Algorithms to Live By: The Computer Science of Human Decisions](http://algorithmstoliveby.com) by [Brian Christian](https://brianchristian.org) and [Tom Griffiths](http://cocosci.princeton.edu/tom/index.php).
+## Discussion Points for Algorithms to Live By: The Computer Science of Human Decisions
+
+### Book
+[Algorithms to Live By: The Computer Science of Human Decisions](http://algorithmstoliveby.com) by [Brian Christian](https://brianchristian.org) and [Tom Griffiths](http://cocosci.princeton.edu/tom/index.php).
 
 ### Discussion Guidelines
 - Read the material before coming to class.  You won't be quizzed on it, but do it because it is the right thing to do.
