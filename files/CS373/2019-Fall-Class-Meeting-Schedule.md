@@ -12,15 +12,15 @@
 | September 6 | **Individual:** Progress update, outline & citations |   |
 | September 9 | **In class:** [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |
 | September 13 | **In class:** [A Better Professional You](https://maherou.github.io/files/CS373/BetterYou.pdf) <br> **In class:** [ATLB Discussion: Introduction and Chapter 1](https://maherou.github.io/files/CS373/ATLB-Discussion)  |   |
-| September 16 | **In class:** [Titles and Abstracts Exercises.](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) Due Oct 5. <br> **In class:** ATLB Discussion: Chapter 2 & 3 <br> **In class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/) |   |
+| September 16 | **In class:** [Titles and Abstracts Exercises.](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) Due Oct 5. <br> **In class:** ATLB Discussion: Chapter 2 & 3  |   |
 | September 20 |  | **No class: In Washington, DC** |
 | September 23 | | **No class: In Albuquerque, NM**   |
 | September 25 | **Due:** Preliminary SOTF paper ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). [Submit your PDF file](https://easychair.org/conferences/?conf=fall2018psotf). BY Midnight. | **No class:** Paper due |
 | September 27 |  **In class:** PSOTF presentations ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). | |
 | September 30 |  | **No class: In Washington, DC**  |
-| October 4 | **In class:** ATLB Discussion: Chapter 4 & 5 <br> **Individual:** Review of PSOTF paper & presentation.  |   |
+| October 4 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br> **In class:** ATLB Discussion: Chapter 4 & 5 <br> **In class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/) <br> **In class:** [Position Papers.](https://collegeville.github.io/Scribe/PositionPapers/) Due Oct 11.   |   |
 | October 7 |  | **No class: In Lugano, Switzerland** |
-| October 11 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br> **In class:** [Position Papers.](https://collegeville.github.io/Scribe/PositionPapers/) Due Oct 18. |   |
+| October 11 | **Individual:** Review of PSOTF paper & presentation.  |   |
 | October 14 | **Individual:** Progress status. |   |
 | October 18 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) <br> **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). Submit email attachment before midnight CT. |   |
 | October 21 |   | **No class: In Washington, DC**  |
