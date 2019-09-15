@@ -12,7 +12,7 @@
 | September 6 | **Individual:** Progress update, outline & citations |   |
 | September 9 | **In class:** [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |
 | September 13 | **In class:** [A Better Professional You](https://maherou.github.io/files/CS373/BetterYou.pdf) <br> **In class:** [ATLB Discussion: Introduction and Chapter 1](https://maherou.github.io/files/CS373/ATLB-Discussion)  |   |
-| September 16 | **In class:** [Titles and Abstracts Exercises.](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) Due Oct 5. <br> **In class:** ATLB Discussion: Chapter 2 & 3  |   |
+| September 16 | **In class:** [Titles and Abstracts Exercises.](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) Due Oct 5. <br> **In class:** ATLB Discussion: Chapter 2 & 3 <br> **Individual:** Brif progress status. |   |
 | September 20 |  | **No class: In Washington, DC** |
 | September 23 | | **No class: In Albuquerque, NM**   |
 | September 25 | **Due:** Preliminary SOTF paper ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). [Submit your PDF file](https://easychair.org/conferences/?conf=fall2018psotf). BY Midnight. | **No class:** Paper due |
