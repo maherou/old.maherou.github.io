@@ -28,3 +28,11 @@
 1. What situations in your own life remind you of the "Turkey Drop" phenomenon?
 1. How is optimal stopping a fundamental issue what it means to be alive?
 1. How can you apply the principle of optimal stopping to improve your own life?
+
+**Chapter 2**
+1. What are some specific multi-arm bandits situations in your own life?
+1. Reflecting on the Explore/Exploit framework, and the tendency for a person's network to diminish over time, how might you strategize to improve the quality of your life in the future?
+
+**Chapter 3**
+1. What situations in human society are similar to debeaking chickens?  What are some of the "beaks" in your own social networks?
+2. How could you consider tranforming a competitve team sport such as baseball or basketball from a "fight" into a "race"?
