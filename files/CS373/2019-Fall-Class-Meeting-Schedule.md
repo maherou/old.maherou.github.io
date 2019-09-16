@@ -15,7 +15,7 @@
 | September 16 | **In class:** [Titles and Abstracts Exercises.](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) Due Sep 20. <br> **In class:** [Position Papers.](https://collegeville.github.io/Scribe/PositionPapers/) Due Sep 23. <br> **In class:** [ATLB Discussion: Chapter 2 & 3](https://maherou.github.io/files/CS373/ATLB-Discussion) <br> **Individual:** Brief progress status. |   |
 | September 20 | | **No class: In Washington, DC** |
 | September 23 | | **No class: In Albuquerque, NM**   |
-| September 25 | **Due:** Preliminary SOTF paper ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). [Submit your PDF file](https://easychair.org/conferences/?conf=fall2018psotf). BY Midnight. | **No class:** Paper due |
+| September 25 | **Due:** Preliminary SOTF paper ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). [Submit your PDF file](https://easychair.org/conferences/?conf=fall2019psotf). BY Midnight. | **No class:** Paper due |
 | September 27 |  **In class:** PSOTF presentations ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). | |
 | September 30 |  | **No class: In Washington, DC**  |
 | October 4 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br> **In class:** [ATLB Discussion: Chapter 4 & 5](https://maherou.github.io/files/CS373/ATLB-Discussion) <br> **In class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/)    |   |
