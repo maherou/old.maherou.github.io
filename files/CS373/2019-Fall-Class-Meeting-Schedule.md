@@ -18,7 +18,7 @@
 | September 25 | **Due:** Preliminary SOTF paper ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). [Submit your PDF file](https://easychair.org/conferences/?conf=fall2019psotf). BY Midnight. | **No class:** Paper due |
 | September 27 |  **In class:** PSOTF presentations ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). | |
 | September 30 |  | **No class: In Washington, DC**  |
-| October 4 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br> **In class:** [ATLB Discussion: Chapter 4 & 5](https://maherou.github.io/files/CS373/ATLB-Discussion) <br> **In class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/)    |   |
+| October 4 | **In class:** [ATLB Discussion: Chapter 4 & 5](https://maherou.github.io/files/CS373/ATLB-Discussion) <br> **In class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/)    |   |
 | October 7 |  | **No class: In Lugano, Switzerland** |
 | October 11 | **Individual:** Review of PSOTF paper & presentation.  |   |
 | October 14 | **Individual:** Progress status. |   |
@@ -26,8 +26,8 @@
 | October 21 |   | **No class: In Washington, DC**  |
 | October 25 |   | **No class: In Washington, DC**  |
 | October 28 | **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf) <br> **In class:** [ATLB Discussion: Chapter 6 & 7](https://maherou.github.io/files/CS373/ATLB-Discussion) |   |
-| November 1 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due Nov 4) <br> **In class:** EasyChair Reviewer Instructions <br> **Individual:** Review of Survey Paper. |  |
-| November 4 | **In class:** [ATLB Discussion: Chapter 8 & 9](https://maherou.github.io/files/CS373/ATLB-Discussion) | |
+| November 1 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due Nov 4) <br> **In class:** EasyChair Reviewer Instructions <br> **Individual:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) Submit prior to November 4 class. <br> **Individual:** Review of Survey Paper. |  |
+| November 4 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br>  **In class:** [ATLB Discussion: Chapter 8 & 9](https://maherou.github.io/files/CS373/ATLB-Discussion) | |
 | November 8 | **In class:** Tech Analysis Talks ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). |  |
 | November 11 |**Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=fall2018techanalsys) before midnight CST.  | **No class: In Denver** |
 | November 15 | **In class:** [Recorded presentations.](https://collegeville.github.io/Orator/RecordedPresentations)  |   |
