@@ -35,4 +35,12 @@
 
 **Chapter 3**
 1. What situations in human society are similar to debeaking chickens?  What are some of the "beaks" in your own social networks?
-2. How could you consider tranforming a competitve team sport such as baseball or basketball from a "fight" into a "race"?
+1. How could you consider tranforming a competitve team sport such as baseball or basketball from a "fight" into a "race"?
+
+**Chapter 4**
+1. Using the library shelving strategy as inspiration, what common campus environments could benefit from an LRU caching strategy?
+1. Have you found purposeful forgetting useful in your own life?
+
+**Chapter 5**
+1. What are some examples of how you optimize your life based on predicting long vs. short length tasks?
+1. How can the principle of interrupt coalescing be applied to your life?  Give a few concrete examples.
