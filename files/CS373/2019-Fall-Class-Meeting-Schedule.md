@@ -27,7 +27,7 @@
 | October 25 | **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf) <br> **In class:** [ATLB Discussion: Chapter 6 & 7](https://maherou.github.io/files/CS373/ATLB-Discussion) |   |
 | October 28 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due Nov 4) <br> **Assign:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) Submit prior to November 4 class. <br> **Individual:** Review of Survey Paper. |  |
 | November 1 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br>  **In class:** [ATLB Discussion: Chapter 8 & 9](https://maherou.github.io/files/CS373/ATLB-Discussion) | |
-| November 4 | TBD | |
+| November 4 |  |**TBD** |
 | November 8 | **In class:** Tech Analysis Talks ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). |  |
 | November 11 |**Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=fall2018techanalsys) before midnight CST.  | |
 | November 15 | **In class:** [Recorded presentations.](https://collegeville.github.io/Orator/RecordedPresentations)  |   |
