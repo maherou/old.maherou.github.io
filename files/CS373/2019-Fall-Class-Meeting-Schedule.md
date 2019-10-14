@@ -20,7 +20,7 @@
 | September 30 |  | **No class: In Washington, DC**  |
 | October 4 | **In class:** [ATLB Discussion: Chapter 4 & 5](https://maherou.github.io/files/CS373/ATLB-Discussion) <br> **In class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/)    |   |
 | October 7 |  | **No class: In Lugano, Switzerland** |
-| October 11 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) <br> **Due:** [EasyChair Peer Review](https://easychair.org/conferences/?conf=fall2019psotf) of PSOTF Papers |   |
+| October 11 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) Turn in revised paragraphs on Oct 18. <br> **Due:** [EasyChair Peer Review](https://easychair.org/conferences/?conf=fall2019psotf) of PSOTF Papers |   |
 | October 14 | **Individual:** Progress status. |   |
 | October 18 | No class.  | **[National Exascale Day](https://www.cray.com/resources/exascale-day-panel-discussion)**  |
 | October 21 | <br> **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). Submit email attachment before midnight CT.  | **No class: In Washington, DC**  |
