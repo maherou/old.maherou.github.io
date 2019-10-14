@@ -22,7 +22,7 @@
 | October 7 |  | **No class: In Lugano, Switzerland** |
 | October 11 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) <br> **Due:** [EasyChair Peer Review](https://easychair.org/conferences/?conf=fall2019psotf) of PSOTF Papers |   |
 | October 14 | **Individual:** Progress status. |   |
-| October 18 | No class.  | **TGIF**  |
+| October 18 | No class.  | **[National Exascale Day](https://www.cray.com/resources/exascale-day-panel-discussion)**  |
 | October 21 | <br> **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). Submit email attachment before midnight CT.  | **No class: In Washington, DC**  |
 | October 25 | **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf) <br> **In class:** [ATLB Discussion: Chapter 6 & 7](https://maherou.github.io/files/CS373/ATLB-Discussion) |   |
 | October 28 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due Nov 4) <br> **Assignment:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) Submit prior to November 1 class. <br> **Individual:** Review of Survey Paper. |  |
