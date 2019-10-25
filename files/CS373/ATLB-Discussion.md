@@ -52,4 +52,3 @@
 **Chapter 7**
 1. What are some examples of cross validation you have observed in real life?
 1. Have you observed or used regularization techniques in your own decision-making processes, or in group decisions?
-1. 
