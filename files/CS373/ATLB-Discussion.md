@@ -44,3 +44,12 @@
 **Chapter 5**
 1. What are some examples of how you optimize your life based on predicting long vs. short length tasks?
 1. How can the principle of interrupt coalescing be applied to your life?  Give a few concrete examples.
+
+**Chapter 6**
+1. Using the notion of priors within the Bayesian context, when and how have you observed the impact of differences in individual perceptions of priors been noticeable in group decision making processes?
+1. What experiences in your life are similar to the "marshmallow test" and delayed gratification?
+
+**Chapter 7**
+1. What are some examples of cross validation you have observed in real life?
+1. Have you observed or used regularization techniques in your own decision-making processes, or in group decisions?
+1. 
