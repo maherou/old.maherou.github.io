@@ -34,7 +34,7 @@
 | November 18 |**Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=fall2018techanalsys) before midnight CST.  | |
 | November 22 | **Due:** Peer review of Tech Analysis papers | **No class: In Denver**  |
 | November 25 | **Individual:** Progress meeting. |  |
-| December 2 | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)).    | |
+| December 4 | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)).    | **No class: In Washington, DC**|
 | December 6 |  | **TBD** |
 | December 9 | **In class:** [ATLB Discussion: Chapter 10, 11 & Conclusion](https://maherou.github.io/files/CS373/ATLB-Discussion) <br> **In class:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/), [Capstone Bingo](https://maherou.github.io/files/CS373/Bingo/Capstone-Bingo) |  |
 | December 11 | **Individual:** SOTF Presentation Dry Run [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf) | **Dry Run of Formal presentations** |
