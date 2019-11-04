@@ -26,17 +26,18 @@
 | October 21 |  | **No class: In Washington, DC**  |
 | October 23 | <br> **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). Submit email attachment before midnight CT.  | |
 | October 25 | **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf) <br> **In class:** [ATLB Discussion: Chapter 6 & 7](https://maherou.github.io/files/CS373/ATLB-Discussion) |   |
-| October 28 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due Nov 4) <br> **Assignment:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) Submit prior to November 1 class.  | **Note: Class will start at 2:30 pm |
+| October 28 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due Nov 4) <br> **Assignment:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) Submit prior to November 1 class.  | **Note: Class will start at 2:30 pm** |
 | November 1 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br> **Individual:** Review of Survey Paper.  | |
+| November 4 |  |**No class: In Washington, DC** |
 | November 8 | **In class:** [Recorded presentations.](https://collegeville.github.io/Orator/RecordedPresentations) <br>  **In class:** [ATLB Discussion: Chapter 8 & 9](https://maherou.github.io/files/CS373/ATLB-Discussion) |   |
-| November 11 |  |**No class: In Washington, DC** |
+| November 11 |  |**No class: TGIM** |
 | November 15 | **In class:** Tech Analysis Talks ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). |  |
-| November 18 |**Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=fall2018techanalsys) before midnight CST.  | |
-| November 22 | **Due:** Peer review of Tech Analysis papers | **No class: In Denver**  |
+| November 18 |**Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=fall2018techanalsys) before midnight CST.  |**No class: In Denver** |
+| November 22 | **Due:** Peer review of Tech Analysis papers |   |
 | November 25 | **Individual:** Progress meeting. |  |
-| December 4 | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)).    | **No class: In Washington, DC**|
-| December 6 |  | **TBD** |
-| December 9 | **In class:** [ATLB Discussion: Chapter 10, 11 & Conclusion](https://maherou.github.io/files/CS373/ATLB-Discussion) <br> **In class:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/), [Capstone Bingo](https://maherou.github.io/files/CS373/Bingo/Capstone-Bingo) |  |
+| December 4 | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)).    | **No class: At ORNL**|
+| December 6 | **In class:** [ATLB Discussion: Chapter 10, 11 & Conclusion](https://maherou.github.io/files/CS373/ATLB-Discussion) <br> **In class:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/), [Capstone Bingo](https://maherou.github.io/files/CS373/Bingo/Capstone-Bingo) |  |
+| December 9 |  | **TBD** |
 | December 11 | **Individual:** SOTF Presentation Dry Run [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf) | **Dry Run of Formal presentations** |
 | December 12 | **Due:** Final SOTF Talk [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf) | **Formal presentations** |
 | December 17  | **Due:** Final SOTF Paper [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf) | **Submit before you leave campus.** |
