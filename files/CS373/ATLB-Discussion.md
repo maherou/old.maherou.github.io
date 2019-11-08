@@ -59,5 +59,5 @@
 
 **Chapter 9**
 1. Random sampling can be used to probe a collection of possible outcome to get a sense of what is more likely.  How have you in your own life used sampling techniques to gain insight into situations?  How can such approaches be scientific?
-1. Simulated Annealing attempts to find solutions by considering many different possible answers in early iterations toward finding a solution and then slowing restricting reducing the search space in later iterations?  Have you seen or used similar techniques in your own life?
+1. Simulated Annealing attempts to find solutions by considering many different possible answers in early iterations toward finding a solution and then slowly restricting the search space in later iterations?  Have you seen or used similar techniques in your own life?
 
