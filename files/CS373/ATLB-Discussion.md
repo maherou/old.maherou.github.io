@@ -52,3 +52,12 @@
 **Chapter 7**
 1. What are some examples of cross validation you have observed in real life?
 1. Have you observed or used regularization techniques in your own decision-making processes, or in group decisions?
+
+**Chapter 8**
+1. The optimal path algorithm is called the Traveling Salesman Problem because of the time period in which it was identified and studied.  What could it be called today and why?
+1. Lagrangian Relaxation refers to making permissable that which was prohibited.  In your own life, have you grown to accept as permissible things that you once thought prohibited, accepting them now as only penalty?  Have you considered things permissible in the past that you now consider prohibited?
+
+**Chapter 9**
+1. Random sampling can be used to probe a collection of possible outcome to get a sense of what is more likely.  How have you in your own life used sampling techniques to gain insight into situations?  How can such approaches be scientific?
+1. Simulated Annealing attempts to find solutions by considering many different possible answers in early iterations toward finding a solution and then slowing restricting reducing the search space in later iterations?  Have you seen or used similar techniques in your own life?
+
