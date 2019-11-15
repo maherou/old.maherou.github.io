@@ -33,7 +33,7 @@
 | November 11 |  |**No class: TGIM** |
 | November 15 | **In class:** Tech Analysis Talks ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). |  |
 | November 20 |**Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=fall2018techanalsys) before midnight CST.  |**No class: In Denver** |
-| November 22 | **Due:** Peer review of Tech Analysis papers |   |
+| November 26 | **Due:** Peer review of Tech Analysis papers |   |
 | November 25 | **Individual:** Progress meeting. |  |
 | December 4 | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)).    | **No class: At ORNL**|
 | December 6 | **In class:** [ATLB Discussion: Chapter 10, 11 & Conclusion](https://maherou.github.io/files/CS373/ATLB-Discussion) <br> **In class:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/), [Capstone Bingo](https://maherou.github.io/files/CS373/Bingo/Capstone-Bingo) |  |
