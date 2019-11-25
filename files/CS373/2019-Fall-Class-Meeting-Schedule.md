@@ -35,10 +35,10 @@
 | November 20 |**Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=2019techpaper) before midnight CST.  |**No class: In Denver** |
 | November 25 | **Individual:** Progress meeting. |  |
 | November 26 | **Due:** Peer review of Tech Analysis papers. Submit via [EasyChair](https://easychair.org/conferences/?conf=2019techpaper) before midnight CST. |   |
-| December 1 |  | **No class** |
-| December 4 | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)).    | **No class: At ORNL**|
+| December 2 |  | **No class** |
+| December 4 | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf)).  | **Submit as email attachment. No class: At ORNL**|
 | December 6 | **In class:** [ATLB Discussion: Chapter 10, 11 & Conclusion](https://maherou.github.io/files/CS373/ATLB-Discussion) <br> **In class:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/), [Capstone Bingo](https://maherou.github.io/files/CS373/Bingo/Capstone-Bingo) |  |
 | December 9 |  | **No class** |
+| December 11  | **Due:** Final SOTF Paper [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf) | **Submit as an email attachment.** |
 | December 13 | **Individual:** SOTF Presentation Dry Run [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf) | **Dry Run of Formal presentations** |
 | December 14 | **Due:** Final SOTF Talk [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf) | **Formal presentations** |
-| December 14  | **Due:** Final SOTF Paper [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSixteenthEdition.pdf) | **Submit before you leave campus.** |
