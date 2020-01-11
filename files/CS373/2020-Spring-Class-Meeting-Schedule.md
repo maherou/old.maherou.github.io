@@ -27,7 +27,7 @@
 | March 13 | **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf) <br> **In class:** [ATLB Discussion: Chapter 6 & 7](https://maherou.github.io/files/CS373/ATLB-Discussion) |   |
 | March 16 |  | **No class: In San Moritz, Switzerland**  |
 | March 20 |  | **No class: In San Moritz, Switzerland**  |
-| March 23 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due March 25) <br> **Assignment:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) Submit prior to March 27 class.  | **Note: Class will start at 2:30 pm** |
+| March 23 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due March 25) <br> **Assignment:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) Submit prior to March 27 class.  | |
 | March 27 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/)  | |
 | March 30 | **In class:** [Recorded presentations.](https://collegeville.github.io/Orator/RecordedPresentations) <br>  **In class:** [ATLB Discussion: Chapter 8 & 9](https://maherou.github.io/files/CS373/ATLB-Discussion) |   |
 | April 3 |  |**No class: In Denver, CO** |
