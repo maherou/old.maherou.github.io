@@ -33,12 +33,12 @@
 | April 3 |  |**No class: In Denver, CO** |
 | April 6 | **In class:** Tech Analysis Talks ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). |  |
 | April 8 |**Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=2020techpaper) before midnight CST.  | |
-| April 10 | **No class: Easter Break |  |
-| April 13 | **No class: Easter Break |  |
+| April 10 |  | **No class: Easter Break** |
+| April 13 |  | **No class: Easter Break** |
 | April 17 | **Due:** Peer review of Tech Analysis papers. Submit via [EasyChair](https://easychair.org/conferences/?conf=2020techpaper) before midnight CST. |   |
-| April 20  | **Due:** Future Trends paper **as part of Final SOTF Paper** ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). | **Submit as an email attachment.** |
+| April 20  | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). | **Submit as an email attachment.** |
 | April 24 | TBD | |
-| April 27 | **No class: In Oak Ridge, TN** | |
+| April 27 |  | **No class: In Oak Ridge, TN** |
 | May 1 | **In class:** [ATLB Discussion: Chapter 10, 11 & Conclusion](https://maherou.github.io/files/CS373/ATLB-Discussion) <br> **In class:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/), [Capstone Bingo](https://maherou.github.io/files/CS373/Bingo/Capstone-Bingo) |  |
 | TBD | **Individual:** SOTF Presentation Dry Run [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf) | **Dry Run of Formal presentations** |
 | May 8 | **Due:** Final SOTF Talk [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf) | **Formal presentations** |
