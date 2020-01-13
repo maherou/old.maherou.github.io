@@ -11,7 +11,7 @@ location: "Collegeville, MN, USA"
 ### Course Information:
 - Instructor: Mike Heroux
 - Time: 1:50 pm to 4:30 pm Mondays and Fridays
-- Location: Room 036, Engel Science Center, St. John's.
+- Location: Room 236, Engel Science Center, St. John's.
 
 ### Contact Info:
 - +1 505 379 5518
