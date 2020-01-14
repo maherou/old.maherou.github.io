@@ -8,8 +8,8 @@
 | ---------- | --- | --- |
 | January 13 | **In class:** Class Introduction <br> **In class:** Reference librarian (D.Wuolu) <br> **Individual:** Study [Course Handbook](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf) | |
 | January 17 | | **No class: In Lugano, Switzerland** |
-| January 20 |**In class:** [Handbook](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf) quiz <br>  **In class:**  _A Tale of 3 CS373 Students_ <br> **Individual:** Research Topic Possibilities|   |
-| January 24 | **Individual:** Progress update, outline & citations | **At CSB, Main 250**  |
+| January 20 | | **No class: Martin Luther King Day** |
+| January 24 |**In class:** [Handbook](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf) quiz <br>  **In class:**  _A Tale of 3 CS373 Students_ <br> **Individual:** Research Topic Possibilities|   |
 | January 27 | **In class:** [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |
 | January 31 | **In class:** [A Better Professional You](https://maherou.github.io/files/CS373/BetterYou.pdf) <br> **In class:** [Titles and Abstracts Exercises.](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) Due February 7 as email attachment. <br> **In class:** [ATLB Discussion: Introduction and Chapter 1](https://maherou.github.io/files/CS373/ATLB-Discussion)  |   |
 | February 3 | | **No class: In Houston, TX**   |
