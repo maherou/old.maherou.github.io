@@ -20,13 +20,13 @@
 
 **Introduction**
 1. How is the study of computer science (CS) relevant to a liberal arts college education?  
-1. What aspects of CS may be less relevant or outside the scope of CS?
+1. What aspects of CS may be less relevant or outside the scope of a liberal arts education?
 
 **Chapter 1**
 1. In common language, what are the basic principles of optimal stopping?
 1. What is the dynamic behind the "Turkey Drop" phenomenon?
 1. What situations in your own life remind you of the "Turkey Drop" phenomenon?
-1. How is optimal stopping a fundamental issue what it means to be alive?
+1. How is optimal stopping a fundamental issue in what it means to be alive?
 1. How can you apply the principle of optimal stopping to improve your own life?
 
 **Chapter 2**
