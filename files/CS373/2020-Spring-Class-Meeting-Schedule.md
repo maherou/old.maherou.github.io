@@ -16,7 +16,6 @@
 | February 3 | | **No class: In Houston, TX**   |
 | February 7 | | **No class: In Houston, TX**   |
 | February 10 |  **In class:** PSOTF presentations ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). | |
-| February 12 | **Due:** Preliminary SOTF paper ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). [Submit your PDF file](https://easychair.org/conferences/?conf=spring2020psotf). BY Midnight. | **No class:** Paper due |
 | February 14 | **Due:** Preliminary SOTF paper ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). [Submit your PDF file](https://easychair.org/conferences/?conf=spring2020psotf). BY Midnight. <br> **In class:** [Position Papers.](https://collegeville.github.io/Scribe/PositionPapers/) Due February 21. <br> **In class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/)   <br> **In class:** [ATLB Discussion: Chapter 2 & 3](https://maherou.github.io/files/CS373/ATLB-Discussion)  |   |
 | February 17 |  | **No class: In Kobe, Japan**  |
 | February 21 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) Turn in revised paragraphs on February 24. <br> **Individual:** Brief progress status.<br> **Due:** [EasyChair Peer Review](https://easychair.org/conferences/?conf=fall2020psotf) of PSOTF Papers |   |
