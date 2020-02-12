@@ -17,9 +17,10 @@
 | February 7 | | **No class: In Houston, TX**   |
 | February 10 |  **In class:** PSOTF presentations ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). | |
 | February 14 | **Due:** Preliminary SOTF paper ( [HB, pg 20](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). [Submit your PDF file](https://easychair.org/conferences/?conf=spring2020psotf). BY Midnight. <br> **In class:** [Position Papers.](https://collegeville.github.io/Scribe/PositionPapers/) Due February 21. <br> **In class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/)   <br> **In class:** [ATLB Discussion: Chapter 2 & 3](https://maherou.github.io/files/CS373/ATLB-Discussion)  |   |
-| February 17 |  | **No class: In Kobe, Japan**  |
-| February 21 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) Turn in revised paragraphs on February 24. <br> **Individual:** Brief progress status.<br> **Due:** [EasyChair Peer Review](https://easychair.org/conferences/?conf=fall2020psotf) of PSOTF Papers |   |
-| February 24 | **In class:** [ATLB Discussion: Chapter 4 & 5](https://maherou.github.io/files/CS373/ATLB-Discussion)  |   |
+| February 17 |  | **No class**  |
+| February 19 |  | **Individual Meetings at CSB Main 250**  |
+| February 21 | **Due:** [EasyChair Peer Review](https://easychair.org/conferences/?conf=fall2020psotf) of PSOTF Papers | **No class**  |
+| February 24 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) Turn in revised paragraphs on February 26. <br> **In class:** [ATLB Discussion: Chapter 4 & 5](https://maherou.github.io/files/CS373/ATLB-Discussion)  |   |
 | February 28 | **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). Submit email attachment before midnight CT.  | |
 | March 2 |  | **No class: Spring Break**  |
 | March 6 |  | **No class: Spring Break**  |
