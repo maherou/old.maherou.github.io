@@ -35,7 +35,7 @@
 
 **Chapter 3**
 1. What situations in human society are similar to debeaking chickens?  What are some of the "beaks" in your own social networks?
-1. How could you consider tranforming a competitve team sport such as baseball or basketball from a "fight" into a "race"?
+1. What are competitve team sport such as baseball or basketball, a "fight" or a "race"?  What about other competitive environments?
 
 **Chapter 4**
 1. Using the library shelving strategy as inspiration, what common campus environments could benefit from an LRU caching strategy?
