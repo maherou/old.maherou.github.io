@@ -21,7 +21,7 @@
 | February 19 |  | **Individual Meetings at CSB Main 250**  |
 | February 21 | **Due:** [EasyChair Peer Review](https://easychair.org/conferences/?conf=fall2020psotf) of PSOTF Papers | **No class**  |
 | February 24 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) Turn in revised paragraphs on February 26. <br> **In class:** [ATLB Discussion: Chapter 4 & 5](https://maherou.github.io/files/CS373/ATLB-Discussion)  |   |
-| February 28 | **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). Submit email attachment before midnight CT.  | |
+| February 28 | **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). Submit email attachment before midnight CT.  | **No class: Early Spring Break** |
 | March 2 |  | **No class: Spring Break**  |
 | March 6 |  | **No class: Spring Break**  |
 | March 9 | **Individual:** Progress status. | **At CSB, Main 250**  |
