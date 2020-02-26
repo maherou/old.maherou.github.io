@@ -23,6 +23,7 @@
 | February 24 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) Turn in revised paragraphs on February 26. <br> **In class:** [ATLB Discussion: Chapter 4 & 5](https://maherou.github.io/files/CS373/ATLB-Discussion)  |   |
 | February 28 | **Due:** Survey paper ( [HB, pg 21](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). Submit email attachment before midnight CT.  | **No class: Early Spring Break** |
 | March 2 |  | **No class: Spring Break**  |
+| March 3 | Due date for Survey Paper if needed.  Submit email attachment before midnight CT. | **Relaxed deadline** |
 | March 6 |  | **No class: Spring Break**  |
 | March 9 | **Individual:** Progress status. | **At CSB, Main 250**  |
 | March 13 | **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf) <br> **In class:** [ATLB Discussion: Chapter 6 & 7](https://maherou.github.io/files/CS373/ATLB-Discussion) |   |
