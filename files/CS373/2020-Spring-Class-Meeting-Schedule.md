@@ -27,12 +27,12 @@
 | March 6 |  | **No class: Spring Break**  |
 | March 9 |  | **No class: Additional Spring Break**  |
 | March 13 | **Individual:** Progress status. | **At CSB, Main 250**  |
-| March 16 | **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf) <br> **In class:** [ATLB Discussion: Chapter 6 & 7](https://maherou.github.io/files/CS373/ATLB-Discussion) |   |
-| March 20 |  | **TBD**  |
-| March 23 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due March 25) <br> **Assignment:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) Submit prior to March 27 class.  | |
-| March 27 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/)  | |
-| March 30 | **In class:** [Recorded presentations.](https://collegeville.github.io/Orator/RecordedPresentations) <br>  **In class:** [ATLB Discussion: Chapter 8 & 9](https://maherou.github.io/files/CS373/ATLB-Discussion) |   |
-| April 3 |  |**No class: In Denver, CO** |
+| March 16 |  | **Spring Break II**  |
+| March 20 |  | **Spring Break II**  |
+| March 23 | **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf) <br> **In class:** [ATLB Discussion: Chapter 6 & 7](https://maherou.github.io/files/CS373/ATLB-Discussion) |   |
+| March 27 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due March 30) <br> **Assignment:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) Submit prior to March 27 class.  | |
+| March 30 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/)  | |
+| April 3 | **In class:** [Recorded presentations.](https://collegeville.github.io/Orator/RecordedPresentations) <br>  **In class:** [ATLB Discussion: Chapter 8 & 9](https://maherou.github.io/files/CS373/ATLB-Discussion) |   |
 | April 6 | **In class:** Tech Analysis Talks ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). |  |
 | April 8 |**Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=2020techpaper) before midnight CST.  | |
 | April 10 |  | **No class: Easter Break** |
