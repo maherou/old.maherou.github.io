@@ -30,17 +30,17 @@
 | March 16 |  | **Spring Break II**  |
 | March 20 |  | **Spring Break II**  |
 | March 23 | **In class:** [Tech Writing and Speaking 2.0.](https://maherou.github.io/files/CS373/TechWritingSpeaking2.0.pdf) <br> **In class:** [ATLB Discussion: Chapter 6 & 7](https://maherou.github.io/files/CS373/ATLB-Discussion) |   |
-| March 27 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due March 30) <br> **Assignment:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) Submit prior to March 27 class.  | |
-| March 30 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/)  | |
-| April 3 | **In class:** [Recorded presentations.](https://collegeville.github.io/Orator/RecordedPresentations) <br>  **In class:** [ATLB Discussion: Chapter 8 & 9](https://maherou.github.io/files/CS373/ATLB-Discussion) |   |
+| March 27 |  |**TGIF** |
+| March 30 | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due March 30)  **In class:** [Recorded presentations.](https://collegeville.github.io/Orator/RecordedPresentations) <br>  **In class:** [ATLB Discussion: Chapter 8 & 9](https://maherou.github.io/files/CS373/ATLB-Discussion) | |
+| April 3 |  | **TGIF**   |
 | April 6 | **In class:** Tech Analysis Talks ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). |  |
 | April 8 |**Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=2020techpaper) before midnight CST.  | |
 | April 10 |  | **No class: Easter Break** |
 | April 13 |  | **No class: Easter Break** |
 | April 17 | **Due:** Peer review of Tech Analysis papers. Submit via [EasyChair](https://easychair.org/conferences/?conf=2020techpaper) before midnight CST. |   |
-| April 20  | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). | **Submit as an email attachment.** |
-| April 24 | TBD | |
-| April 27 |  | **No class: In Oak Ridge, TN** |
+| April 20  | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). <br> **Assignment:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) Submit prior to March 30 class.  | **Submit as an email attachment.** |
+| April 24 |  |**TGIF** |
+| April 27 |**In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/)   | |
 | May 1 | **In class:** [ATLB Discussion: Chapter 10, 11 & Conclusion](https://maherou.github.io/files/CS373/ATLB-Discussion) <br> **In class:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/), [Capstone Bingo](https://maherou.github.io/files/CS373/Bingo/Capstone-Bingo) |  |
 | TBD | **Individual:** SOTF Presentation Dry Run [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf) | **Dry Run of Formal presentations** |
 | May 8 | **Due:** Final SOTF Talk [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf) | **Formal presentations** |
