@@ -39,7 +39,7 @@
 | April 13 |  | **No class: Easter Break** |
 | April 17 | **Due:** Peer review of Tech Analysis papers. Submit via [EasyChair](https://easychair.org/conferences/?conf=2020techpaper) before midnight CST. |   |
 | April 20 | **Individual:** Progress status.  | |
-| April 24  | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). <br> **Assignment:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) Submit write up as email attachment prior to April 27 class.  | **TGIF.** |
+| April 24  | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). <br> **Assignment:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) Submit write up as email attachment prior to April 27 class.  | **TGIF** |
 | April 27 |**In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/)   | |
 | May 1 | **In class:** [ATLB Discussion: Chapter 10, 11 & Conclusion](https://maherou.github.io/files/CS373/ATLB-Discussion) <br> **In class:** [Course Retrospective](https://collegeville.github.o/Scribe/Retrospectives/), [Capstone Bingo](https://maherou.github.io/files/CS373/Bingo/Capstone-Bingo) |  |
 | TBD | **Individual:** SOTF Presentation Dry Run [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf) | **Dry Run of Formal presentations** |
