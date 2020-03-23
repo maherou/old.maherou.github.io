@@ -20,13 +20,13 @@
 
 **Introduction**
 1. How is the study of computer science (CS) relevant to a liberal arts college education?  
-1. What aspects of CS may be less relevant or outside the scope of CS?
+1. What aspects of CS may be less relevant or outside the scope of a liberal arts education?
 
 **Chapter 1**
 1. In common language, what are the basic principles of optimal stopping?
 1. What is the dynamic behind the "Turkey Drop" phenomenon?
 1. What situations in your own life remind you of the "Turkey Drop" phenomenon?
-1. How is optimal stopping a fundamental issue what it means to be alive?
+1. How is optimal stopping a fundamental issue in what it means to be alive?
 1. How can you apply the principle of optimal stopping to improve your own life?
 
 **Chapter 2**
@@ -35,7 +35,7 @@
 
 **Chapter 3**
 1. What situations in human society are similar to debeaking chickens?  What are some of the "beaks" in your own social networks?
-1. How could you consider tranforming a competitve team sport such as baseball or basketball from a "fight" into a "race"?
+1. What are competitve team sports such as baseball or basketball, a "fight" or a "race"?  What about other competitive environments?
 
 **Chapter 4**
 1. Using the library shelving strategy as inspiration, what common campus environments could benefit from an LRU caching strategy?
