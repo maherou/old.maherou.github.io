@@ -9,7 +9,7 @@
 | January 13 | **In class:** Class Introduction <br> **In class:** Reference librarian (D.Wuolu) <br> **Individual:** Study [Course Handbook](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf) | |
 | January 17 | | **No class: In Lugano, Switzerland** |
 | January 20 | | **No class: Martin Luther King Day** |
-| January 21 | **Due:** Summary of your topic and how it addresses the key requirements listed in the [Handbook](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf) Chapter 3. Send as email attachment before end of day. | **Note:** Not a class day| 
+| January 21 | **Due:** Summary of your topic and how it addresses the key requirements listed in the [Handbook](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf) Chapter 3. Send as email attachment before end of day. | **Note:** Not a class day|
 | January 24 |**In class:** [Handbook](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf) quiz <br>  **In class:**  _A Tale of 3 CS373 Students_ <br> **Individual:** Research Topic Status and Bibliography.|   |
 | January 27 | **In class:** [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |
 | January 31 | **In class:** [A Better Professional You](https://maherou.github.io/files/CS373/BetterYou.pdf) <br> **In class:** [Titles and Abstracts Exercises.](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) Due February 7 as email attachment. <br> **In class:** [ATLB Discussion: Introduction and Chapter 1](https://maherou.github.io/files/CS373/ATLB-Discussion)  |   |
@@ -36,7 +36,7 @@
 | April 6 | **In class:** Tech Analysis Talks ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). |  |
 | April 8 |**Due:** Tech Analysis Paper ( [HB, pg 22](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=2020techpaper) before midnight CST.  | |
 | April 10 |  | **No class: Easter Break** |
-| April 13 |  | **No class: Easter Break** |
+| April 13 |  | **No class: Extra Easter Break** |
 | April 17 | **Due:** Peer review of Tech Analysis papers. Submit via [EasyChair](https://easychair.org/conferences/?conf=2020techpaper) before midnight CST. |   |
 | April 20 | **Individual:** Progress status.  | |
 | April 24  | **Due:** Future Trends paper ( [HB, pg 23](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf)). <br> **Assignment:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) Submit write up as email attachment prior to April 27 class.  | **TGIF** |
