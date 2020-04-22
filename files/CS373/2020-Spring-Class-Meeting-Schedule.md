@@ -40,7 +40,7 @@
 | April 17 | **Due:** Peer review of Tech Analysis papers. Submit via [EasyChair](https://easychair.org/conferences/?conf=spring2020tap) before midnight CST. |   |
 | April 20 | **Individual:** Progress status.  | |
 | April 24 | **Assignment:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) Submit write up as email attachment prior to April 27 class.  | **TGIF** |
-| April 27 |**In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/)  <br> **In class:** [Course Retrospective](https://collegeville.github.o/Scribe/Retrospectives/) | |
-| May 1 | **In class:** [ATLB Discussion: Chapter 10, 11 & Conclusion](https://maherou.github.io/files/CS373/ATLB-Discussion)  |  |
+| April 27 |**In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/)  <br> **In class:** [ATLB Discussion: Chapter 10, 11 & Conclusion](https://maherou.github.io/files/CS373/ATLB-Discussion) | |
+| May 1 | **In class:** [Course Retrospective](https://collegeville.github.o/Scribe/Retrospectives/)   |  |
 | TBD | **Due:** Final SOTF Talk [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf) | **Final presentations** |
 | May 8  | **Due:** Final SOTF Paper [(HB, pg 24).](https://maherou.github.io/files/CS373/CSCI373CourseHandbookSeventeenthEdition.pdf) | **Submit as an email attachment.** |
